@@ -1,0 +1,7 @@
+---
+title: "Joey Takeda"
+about:
+  template: jolla
+---
+
+Lorem ipsum etc.

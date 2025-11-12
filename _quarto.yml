@@ -1,0 +1,58 @@
+project:
+  type: website
+  post-render:
+    - utils/postrender.ts
+
+website:
+  title: "TEI2026"
+  # DO NOT ADD FOOTER.
+ # page-footer: "Foo"
+  navbar:
+    pinned: true
+    logo: "logos/output/TEI_Logo.png"
+    left:
+      - href: index.qmd
+        text: Home
+      - text: About
+        menu: 
+          - team.qmd
+          - sponsors.qmd
+          - code-of-conduct.qmd
+      - CFP.qmd
+      - location.qmd
+format:
+  html:
+    include-after-body: _partials/footer.html
+    minimal: true
+    template-partials:
+      - _partials/title-block.html
+    theme:
+      - cosmo
+      - styles.scss
+
+     
+      
+# format:
+#   lumo-html: 
+#                                      # Optional. Path to a logo displayed above the title
+#     github-repo: "https://github.com/holtzy/lumo"        # Optional. Adds a github corner at the top right
+#     primary-color: "#69b3a2"
+#     self-contained: false
+#     is-particlejs-enabled: false   
+#     theme: [styles.scss]                       # Optional: display interactive particles in the document header
+#     bg-image: ""                                         # Optional: link to an image for the header background
+#     logo: true
+# format:
+#     bookup-html:
+#         toc: true
+#         toc-depth: 3
+#         link-external-icon: true
+#         link-external-newwindow: true
+#         theme: "styles.scss"
+#         code: false
+
+
+
+
+
+

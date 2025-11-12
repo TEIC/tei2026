@@ -1,0 +1,94 @@
+/* below the base */
+
+/*-- scss:functions --*/
+
+/*-- scss:defaults --*/
+
+// Local variables
+$font-size-2b: 0.625rem;
+$font-size-1b: 0.8125rem;
+/* the base */
+$font-size: 1rem;
+/* above the base */
+$font-size-1: 1.25rem;
+$font-size-2: 1.5625rem;
+$font-size-3: 2rem;
+$font-size-4: 2.5rem;
+$font-size-5: 3.1875rem;
+$font-size-6: 4rem;
+
+// Actual defaults
+$font-family-serif: "Cormorant Garamond", Times New Roman;
+$font-family-sans-serif: "Inter", Helvetica, sans-serif;
+$font-family-monospace: "Fira Mono", "Menlo", "Andale Mono", monospace;
+//$headings-font-family: $font-family-serif;
+
+$headings-font-weight: 400;
+$font-size-root: $font-size;
+$h1-font-size: $font-size-4;
+$h2-font-size: $font-size-3;
+$h3-font-size: $font-size-2;
+$h4-font-size: $font-size-1;
+
+/*-- scss:rules --*/
+
+.quarto-title-banner {
+  height: 66vh;
+  background-position: bottom;
+  background-attachment: fixed;
+  position: relative;
+  position: relative;
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    max-width: 100vw;
+    background: linear-gradient(
+      to bottom,
+      hsla(0, 0%, 0%, 0) 0%,
+      hsla(0, 0%, 0%, 0.005) 7.7%,
+      hsla(0, 0%, 0%, 0.021) 14.1%,
+      hsla(0, 0%, 0%, 0.045) 19.6%,
+      hsla(0, 0%, 0%, 0.076) 24.3%,
+      hsla(0, 0%, 0%, 0.114) 28.6%,
+      hsla(0, 0%, 0%, 0.157) 32.6%,
+      hsla(0, 0%, 0%, 0.203) 36.6%,
+      hsla(0, 0%, 0%, 0.252) 41%,
+      hsla(0, 0%, 0%, 0.302) 45.8%,
+      hsla(0, 0%, 0%, 0.353) 51.4%,
+      hsla(0, 0%, 0%, 0.402) 58.1%,
+      hsla(0, 0%, 0%, 0.448) 66%,
+      hsla(0, 0%, 0%, 0.491) 75.5%,
+      hsla(0, 0%, 0%, 0.528) 86.7%,
+      hsla(0, 0%, 0%, 0.56) 100%
+    );
+  }
+  .quarto-title {
+    align-self: end;
+    z-index: 999;
+    & > * {
+      color: $gray-100;
+      text-shadow: 1px 1px 1px black;
+    }
+    .subtitle {
+      font-weight: 500;
+    }
+  }
+}
+
+#quarto-content {
+  height: 100%;
+}
+
+.footer,
+.nav-footer {
+  color: $gray-100;
+  background-color: $dark;
+  img {
+    max-width: 8rem;
+    height: auto;
+  }
+}

@@ -1,0 +1,5 @@
+---
+title: "Mary Chapman"
+about:
+  template: jolla
+---

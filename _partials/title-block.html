@@ -1,0 +1,160 @@
+$if(title-block-banner)$
+<header id="title-block-header" class="quarto-title-block default$if(quarto-template-params.banner-header-class)$ $quarto-template-params.banner-header-class$$endif$">
+  <div class="quarto-title-banner">
+    <div class="quarto-title column-body">
+      $if(title)$<h1 class="title">$title$</h1>$endif$
+      $if(subtitle)$
+      <p class="subtitle lead">$subtitle$</p>
+      $endif$
+      $if(description)$
+      <div>
+        <div class="description">
+          $description$
+        </div>
+      </div>
+      $endif$
+      $if(categories)$
+        $if(quarto-template-params.title-block-categories)$
+      <div class="quarto-categories">
+        $for(categories)$
+        <div class="quarto-category">$categories$</div>
+        $endfor$
+      </div>
+        $endif$
+      $endif$
+    </div>
+  </div>
+    
+  $title-metadata.html()$
+  
+  </header>
+$else$
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+$if(title)$
+<h1 class="title">$title$</h1>
+$endif$
+$if(subtitle)$
+<p class="subtitle lead">$subtitle$</p>
+$endif$
+$if(categories)$
+  $if(quarto-template-params.title-block-categories)$
+<div class="quarto-categories">
+  $for(categories)$
+  <div class="quarto-category">$categories$</div>
+  $endfor$
+</div>
+  $endif$
+$endif$
+</div>
+
+
+$if(hide-description)$
+$elseif(description)$
+<div>
+  <div class="description">
+    $description$
+  </div>
+</div>
+$endif$
+
+$if(by-affiliation/first)$
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">$labels.authors$</div>
+  <div class="quarto-title-meta-heading">$labels.affiliations$</div>
+  
+  $for(by-author)$
+  <div class="quarto-title-meta-contents">
+    <p class="author">$_title-meta-author.html()$</p>
+  </div>
+  <div class="quarto-title-meta-contents">
+    $for(by-author.affiliations)$
+    <p class="affiliation">
+      $if(it.url)$
+      <a href="$it.url$">
+      $endif$
+      $it.name$
+      $if(it.url)$
+      </a>
+      $endif$
+    </p>
+    $endfor$
+  </div>
+  $endfor$
+</div>
+$endif$
+
+<div class="quarto-title-meta">
+
+  $if(by-affiliation)$
+  $elseif(by-author)$
+  <div>
+    <div class="quarto-title-meta-heading">$labels.authors$</div>
+    <div class="quarto-title-meta-contents">
+      $for(by-author)$
+       <p>$_title-meta-author.html()$</p>
+      $endfor$
+    </div>
+  </div>
+  $endif$
+  
+  $if(date)$
+  <div>
+    <div class="quarto-title-meta-heading">$labels.published$</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">$date$</p>
+    </div>
+  </div>
+  $endif$
+
+$if(location)$
+<div>
+    <div class="quarto-title-meta-heading">Location</div>
+    <div class="quarto-title-meta-contents">
+        <p class="location">$location$</p>
+    </div>
+</div>
+$endif$
+
+  $if(date-modified)$
+  <div>
+    <div class="quarto-title-meta-heading">$labels.modified$</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">$date-modified$</p>
+    </div>
+  </div>
+  $endif$
+  
+  $if(doi)$
+  <div>
+    <div class="quarto-title-meta-heading">$labels.doi$</div>
+    <div class="quarto-title-meta-contents">
+      <p class="doi">
+        <a href="https://doi.org/$doi$">$doi$</a>
+      </p>
+    </div>
+  </div>
+  $endif$
+</div>
+  
+$if(abstract)$
+<div>
+  <div class="abstract">
+    <div class="block-title">$labels.abstract$</div>
+    $abstract$
+  </div>
+</div>
+$endif$
+
+
+$if(keywords)$
+<div>
+  <div class="keywords">
+    <div class="block-title">$labels.keywords$</div>
+    <p>$for(keywords)$$it$$sep$, $endfor$</p>
+  </div>
+</div>
+$endif$
+
+</header>
+$endif$

@@ -1,0 +1,23 @@
+---
+title: "Toward a Unified Theory of High-Energy Metaphysics: Silly String Theory"
+date: 2008-02-29
+author:
+  - name: Josiah Carberry
+    id: jc
+    orcid: 0000-0002-1825-0097
+    email: josiah@psychoceramics.org
+    affiliation: 
+      - name: Brown University
+        city: Providence
+        state: RI
+        url: www.brown.edu
+keywords:
+  - Metaphysics
+  - String Theory
+location: Custom fiel
+blort: foo
+
+categories: [a, b]
+---
+
+Blort blort blort

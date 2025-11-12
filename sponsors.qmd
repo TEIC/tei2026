@@ -1,0 +1,20 @@
+---
+title: "Sponsors"
+---
+::: {layout-ncol=3}
+[![](logos/output/TEI_Logo_Horizontal.png)](https://tei-c.org/)
+
+![](logos/output/disa.png)
+
+![](logos/output/dhil.png)
+
+![](logos/output/hcmcLogo.png)
+
+![](logos/output/phh.png)
+
+![](logos/output/canlit.png)
+
+![](logos/output/ubc-library.png)
+
+:::
+

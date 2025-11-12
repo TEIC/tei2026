@@ -1,0 +1,19 @@
+---
+title: "Team"
+listing:
+  id: people
+  contents:
+    - "people/*.qmd"
+  type: grid
+---
+
+::: {#people}
+:::
+
+
+## Program Committee
+
+* Joey Takeda (SFU)
+* Rebecca Dowson (SFU)
+* Sydney Lines (UBC)
+* Alison J. Moore (SFU)

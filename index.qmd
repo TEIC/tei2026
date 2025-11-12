@@ -1,0 +1,18 @@
+---
+title: |
+    TEI 2026
+    <br>Creating Connections, Unsettling Practices
+subtitle: |
+    August 10-14, 2026
+    <br>University of British Columbia, Vancouver, BC, Canada
+title-block-banner: "logos/ubc.jpg"
+---
+
+## Save the date! August 10-14, Vancouver, BC, Canada
+The University of British Columbia and Simon Fraser University will co-host TEI 2026. This is the first time the TEI conference will be held in Vancouver and the third time in 26 years that it will be held in Canada. The annual conference provides an opportunity for a diverse international group of researchers to advance text encoding practices, demonstrate new tools, pose questions across disciplines, learn from each other, and train the next generation of scholars in the principles and practices of text encoding. The 5-day conference will host academic panels, poster presentations, tool demonstrations, public keynotes, and plenaries, plus innovative outreach activities including a film screening, public exhibit, open workshops, capacity-building meetings, and collaborative working events. 
+
+We look forward to welcoming you for the in-person conference, **August 10-14th**. Workshops, panels, and presentations will be held at UBC's Vancouver campus with the final keynote at Simon Fraser University's Harbour Center campus in downtown Vancouver. 
+
+Now currently called "Vancouver", the lands on which the conference takes place include the territories of the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and səlilwətaɬ (Tsleil-Waututh) Nations.
+
+Stay tuned for the Call for Papers and further information as it becomes available.

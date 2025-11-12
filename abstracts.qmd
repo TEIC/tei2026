@@ -1,0 +1,6 @@
+---
+title: "Abstracts"
+listing:
+  contents:
+    - "contributions/*.qmd"
+---
