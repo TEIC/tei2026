@@ -13,13 +13,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: About
-        menu: 
-          - team.qmd
-          - sponsors.qmd
-          - code-of-conduct.qmd
-      - CFP.qmd
-      - location.qmd
+      # - text: About
+      #   menu: 
+      #     - team.qmd
+      #     - sponsors.qmd
+      #     - code-of-conduct.qmd
+      # - CFP.qmd
+      # - location.qmd
+    search: false  
 format:
   html:
     include-after-body: _partials/footer.html

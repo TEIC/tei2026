@@ -9,12 +9,12 @@ const config = {
    chapters: ['index.qmd']
   },
   format: {
-    pdf: {
+    "pdf":  {
+        "documentclass": "scrbook",
+        "classoption": ["twocolumn"]
     }
   }
 };
-
-
 for await (const dirEntry of Deno.readDir("./contributions")) {
   console.log(dirEntry.name);
   console.log(dirEntry);

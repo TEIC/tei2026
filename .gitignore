@@ -3,6 +3,8 @@
 .vscode
 
 _site
-
+_book
+*_files/
 /.quarto/
 **/*.quarto_ipynb
+_extensions
