@@ -1,0 +1,20 @@
+project:
+  type: book
+book:
+  title: TEI2026
+  chapters:
+    - index.qmd
+    - ./contributions/.DS_Store
+    - ./contributions/001.qmd
+    - ./contributions/003.qmd
+    - ./contributions/002.qmd
+    - ./contributions/006.qmd
+    - ./contributions/007.qmd
+    - ./contributions/011.qmd
+    - ./contributions/005.qmd
+    - ./contributions/004.qmd
+    - ./contributions/010.qmd
+    - ./contributions/009.qmd
+    - ./contributions/008.qmd
+format:
+  pdf: {}
