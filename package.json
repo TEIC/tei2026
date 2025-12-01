@@ -1,0 +1,24 @@
+{
+  "name": "tei2026",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "config:boa": "node utils/boa-config.js",
+    "build:site": "quarto render",
+    "build:boa": "npm run config:boa && quarto render --profile=boa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeytakeda/tei2026.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeytakeda/tei2026/issues"
+  },
+  "homepage": "https://github.com/joeytakeda/tei2026#readme",
+  "description": "",
+  "devDependencies": {
+    "js-yaml": "^4.1.1"
+  }
+}

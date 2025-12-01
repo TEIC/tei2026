@@ -2,6 +2,8 @@
 .quarto
 .vscode
 
+node_modules/
+tmp/
 _site
 _book
 *_files/

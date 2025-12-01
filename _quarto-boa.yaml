@@ -1,12 +1,12 @@
 project:
   type: book
+  pre-render: utils/boa-config.ts
+  post-render: mv tmp/_quarto-boa.yaml _quarto-boa.yaml
 book:
   title: TEI2026
   chapters:
     - index.qmd
-    - ./contributions/.DS_Store
-    - ./contributions/001.qmd
-    - ./contributions/001_files
+    - contributions/*.qmd
 format:
   pdf:
     documentclass: scrbook
