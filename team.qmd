@@ -1,19 +1,50 @@
 ---
 title: "Team"
 listing:
-  id: people
-  contents:
-    - "people/*.qmd"
-  type: grid
+  - id: local-orgs
+    template: _partials/team-list.ejs
+    contents:
+        - people/MC.qmd
+        - people/SL.qmd
+        - people/KB.qmd
+        - people/SL.qmd
+    type: grid
+  
+  - id: program-committee
+    contents:
+       - people/ECM.qmd
+       - people/JT.qmd
+    type: grid
+       
 ---
 
-::: {#people}
-:::
+## Local Organizers
 
+:::{#local-orgs}
+:::
 
 ## Program Committee
 
-* Joey Takeda (SFU)
-* Rebecca Dowson (SFU)
+:::{#program-committee}
+::: 
+
+<!-- ## Local Organizers
+
+* Mary Chapman (UBC)
 * Sydney Lines (UBC)
-* Alison J. Moore (SFU)
+* Katherine Bowers (UBC)
+* Rebecca Dowson (SFU)
+
+## Program Committee
+
+* Emily Christina Murphy (UBCO) (Co-Chair)
+* Joey Takeda (SFU) (Co-Chair)
+* Diane Jakacki (Bucknell) (Steering Committee)
+* Gimena Del Rio Grande () (Steering Committee)
+* James Cummings (Newcastle) (Steering Committee)
+* Constance Crompton (Ottawa) (Steering Committee) -->
+
+<!-- ## Peer Reviewers -->
+
+
+

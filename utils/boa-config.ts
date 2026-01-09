@@ -1,3 +1,9 @@
+/**
+ * Script for updating the special configuration for the 
+ * Book of Abstracts. This ensures that all items are 
+ * processed, but excludes all of the about pages etc
+ */
+
 import * as path from "jsr:@std/path";
 import { expandGlob, copy, move, ensureDir } from "jsr:@std/fs";
 import { stringify, parse } from "jsr:@std/yaml";

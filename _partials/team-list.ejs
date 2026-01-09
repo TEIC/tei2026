@@ -1,0 +1,22 @@
+```{=html}
+
+<div class="list grid quarto-listing-cols-3">
+    <% for (const item of items) { %>
+    <div class="g-col-1">
+        <div class="quarto-grid-item card h-100 card-left">
+            <% if (item['image']) { %>
+            <div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+            <% } %>
+            <div class="card-body post-contents">
+                <h5 class="no-anchor card-title listing-title"><%= item['name'] %></h5>
+                <p class="text-muted"><%= item['affiliation'] %></p>
+                <div class="card-text listing-description delink">
+                    <%= item['bio'] %>
+                </div>
+            </div>
+        </div>
+    </div>
+    <% } %>
+</div>
+
+```

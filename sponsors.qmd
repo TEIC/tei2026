@@ -1,6 +1,9 @@
 ---
 title: "Sponsors"
 ---
+
+We would like to thank the following organizations for their support in hosting TEI 2026.
+
 ::: {layout-ncol=3}
 [![](logos/output/TEI_Logo_Horizontal.png)](https://tei-c.org/)
 

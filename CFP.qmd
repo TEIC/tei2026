@@ -1,4 +1,65 @@
 ---
-title: "Call for Papers"
+title: "TEI 2026 Call for Papers"
+toc: true
+toc-location: left
 ---
 
+We are pleased to announce the call for papers, posters, panels, tool demonstrations, and workshops for the 26th annual meeting of the [Text Encoding Initiative (TEI)](https://tei-c.org). **TEI 2026: Creating Connections, Unsettling Practices** seeks to bring together scholars, librarians, developers, and students to address the ethical, social, and technical challenges of digital textual editing in the 21st century.
+
+The conference will be held August 10-14, 2026 (Mon-Fri) at the [University of British Columbia](https://ubc.ca), Vancouver, BC, Canada on the unceded, unsurrendered, traditional and ancestral territories of the [xʷməθkʷəy̓əm (Musqueam) people](https://www.musqueam.bc.ca/our-story/our-territory/). 
+
+## Important Dates
+
+**February 19, 2026:** Deadline for submissions  
+**April 20, 2026:** Notification of acceptance and invitation to authors of accepted submissions. Registration opens.  
+**June 1, 2026:** Presenter final abstracts and early registration deadline. At least one author per accepted submission must register and confirm in-person participation.  
+**June 1, 2026:** SIG meeting room request deadline  
+**July 6, 2026:** Final registration deadline
+
+## Topic
+
+Over the past four decades, digital humanists, textual scholars, linguists, libraries, and government agencies worldwide have relied on the Text Encoding Initiative (TEI) standard to model textual information and create reliable, robust, and accurate representations of cultural heritage. Today, TEI faces new challenges and opportunities: rapid technological developments, including artificial intelligence (AI) and large language models (LLMs), emerging technical standards for cultural heritage, new forms of digital publishing, and evolving social contexts all call for renewed attention to the principles and practices that guide digital textual scholarship. 
+
+We welcome submissions to do with any aspect of text encoding and digital textual scholarship. The theme, **Creating Connections, Unsettling Practices**, invites scholars, researchers, and practitioners to explore the past, present, and future of the TEI. Grounded in a commitment to anti-racist, feminist, and decolonial practices, TEI 2026 encourages participants to reflect critically on the structures, collaborations, tools, and methods that variously animate, sustain, modify, or challenge digital textual scholarship today. Potential topics include, but are not limited to, the following: 
+
+* **Equity, Inclusion, and Decolonization:** Anti-racist and justice-oriented approaches to textual editing; addressing colonial legacies in and through text encoding; social justice and human rights in digital scholarship; Black and Indigenous DH approaches; multilingualism; and expanded representation of cultural heritage from IBPOC creators or from the Global South; feminist literary recovery  
+* **TEI and Beyond:** New uses, customizations, or implementations of TEI; limits of TEI conformance and local customization; alternatives to TEI and comparative encoding; crosswalks and interoperability; the future of the TEI and the possibility of P6   
+* **Collaborative Infrastructures:** Human, technical, and institutional infrastructures for TEI; national and international frameworks for digital scholarship; ethical and long-lasting inter-institutional collaborations between students, researchers, technical staff, and librarians  
+* **Scholarly Communications and Research Data Management:** TEI in libraries and cultural heritage institutions; discoverability and findability; ontologies, authority files, and linked data; TEI for scholarly communication; capacity-building for preservation, sharing, and distribution of humanities data  
+* **Data and Interoperability:** Data modeling and structures; FAIR, CARE, and OCAP® principles; interoperability and interchange across platforms and domains  
+* **Emerging Technologies**: AI, LLMs, machine learning, and computer vision; rethinking TEI constraints for new technologies; tools and platforms for creating, publishing, and analyzing digital editions; stand-off annotation; TEI beyond written text  
+* **Pedagogy and Training:** Teaching and learning with TEI; engaging undergraduate and graduate students in research; skills and training for advancing digital scholarship; fostering meaningful and ethical collaborations between students and faculty in teaching and research  
+* **Methods and Evaluation:** Methodologies for encoding, editing, description, and analysis; peer review and evaluation of digital editions; TEI and the graduate thesis  
+* **Cross-Domain Applications:** Digital editions and digital humanities; galleries, libraries, archives, and museums; bibliographies and catalogs; oral cultures and oral history; literary analysis, music theory, composition, and performance; multimedia presentation and exhibition
+
+## Submission Details and Guidelines
+
+Paper submission is available via [https://www.conftool.pro/tei2026](https://www.conftool.pro/tei2026). All submissions to the main conference program will undergo open peer review by multiple members of the Program Committee before acceptance.
+
+Submissions should be in English and include a title, an abstract, and up to five keywords. Do not include identifying information in your submission. 
+
+The following word counts apply to the text of the abstract, excluding titles, bibliography, and keywords. 
+
+**Long Paper** submissions are expected to present overviews or detail specific aspects of ongoing or completed projects, present detailed case-studies or elaborated perspectives on best practices in the field, or provide other reports on topics relevant to the conference (see Topics above). Speakers will be given 30 minutes each: 20 minutes for presentation, 10 minutes for discussion. <span class="underline">Proposals should not exceed 500 words</span>.
+
+**Short paper** submissions are suitable for introducing tools, short demonstrations, new ideas, and experimental topics. Speakers will be given 15 minutes each: 10 minutes for presentation, 5 minutes for discussion. <span class="underline">Proposals should not exceed 300 words</span>.
+
+**Poster** submissions are expected to report on early-stage work, introduce new work, projects, or software, or present experimental ideas for community feedback. A “poster slam” session will be dedicated to poster presentations of 1 minute each. Subsequently, poster presenters will have the chance to tell interested parties more about their project during the poster exhibition, where the audience can browse freely. <span class="underline">Proposals should not exceed 300 words</span>.
+
+**Panels** are suited to coordinated approaches or discussions relating to a single theme. Submissions should describe the topic and nature of the panel, along with the main theses and objectives of the proposed contributions. Panel sessions will be given 90 minutes, which can be used flexibly to include, for example, 3 individual papers followed by questions, or a roundtable discussion. <span class="underline">Proposals should not exceed 800 words</span>.
+
+**Half- or full-day pre-conference workshops.** Proposals should include a description of the workshop’s topic, objective, and appeal to the community; the proposed duration (half day or full day); and any logistical and technical requirements. <span class="underline">Proposals should not exceed 800 words</span>.
+
+## TEI Special Interest Groups (SIGs)
+
+TEI SIG coordinators should register their interest in holding a meeting during the conference through [ConfTool](https://www.conftool.pro/tei2026).
+
+## Additional information
+
+The conference will be held in person. The TEI plans to hold its annual general meeting for its members as part of this conference.  
+
+Additional details regarding registration, accommodation, etc. will be announced on the conference website, the TEI mailing list, and the TEI Slack channel. 
+
+After the conference, the authors of accepted submissions will be invited to submit a full-length paper to a special issue of the peer-reviewed and open-access [*Journal of the Text Encoding Initiative*](https://journals.openedition.org/jtei/), which will serve as curated proceedings for this year’s TEI conference. Papers submitted to the Journal will undergo a new round of peer review by either Program Committee members or the wider community before publication.
+
+Contact information: [teiconf2026@gmail.com](mailto:teiconf2026@gmail.com) 

@@ -1,5 +1,6 @@
 ---
-title: "Katia Bowers"
+name: "Katia Bowers"
+affiliation: "University of British Columbia"
 about:
   template: jolla
 ---

@@ -1,6 +1,10 @@
 import { DOMParser, Element } from "jsr:@b-fuze/deno-dom";
 
 
+/**
+ * Map defining whether a script should be retained
+ */
+
 const SCRIPTS = {
 "quarto-nav.js": false,
 "clipboard.min.js": true,
@@ -19,9 +23,13 @@ const SCRIPTS = {
 "proj4leaflet.js": true,
 }
 
-// ------------------------------
-// DOM-based transform
-// ------------------------------
+
+/**
+ * Transforms the input HTML
+ * 
+ * @param html 
+ * @returns html 
+ */
 function transform(html: string): string {
   const doc = new DOMParser().parseFromString(html, "text/html");
   if (!doc) return html; // fallback if parsing fails
@@ -38,12 +46,12 @@ function transform(html: string): string {
     }
   });
 
-  //
-  // 2. Remove style attribute from <main>
-  //
+  doc.querySelector('#quarto-header').classList.remove('headroom');
+
+  // Flag that this has been postrendered (mostly for testing)
   const mainEl = doc.querySelector("main");
   if (mainEl) {
-    mainEl.setAttribute('data-blort', 'foo');
+    mainEl.setAttribute('data-postrender', 'true');
   }
 
   return doc.documentElement?.outerHTML ?? html;

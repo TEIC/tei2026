@@ -1,0 +1,6 @@
+---
+title: "Emily Christina Murphy"
+role: Program Committee (Co-Chair)
+about:
+  template: jolla
+---

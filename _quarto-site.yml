@@ -8,7 +8,7 @@ website:
   # DO NOT ADD FOOTER.
  # page-footer: "Foo"
   navbar:
-    pinned: true
+    pinned: false
     logo: "logos/output/TEI_Logo.png"
     left:
       - href: index.qmd
@@ -18,13 +18,15 @@ website:
       #     - team.qmd
       #     - sponsors.qmd
       #     - code-of-conduct.qmd
-      # - CFP.qmd
+      # - href: CFP.qmd
+      #   text: CFP
       # - location.qmd
-    search: false  
+    search: false
+    bread-crumbs: true
 format:
   html:
     include-after-body: _partials/footer.html
-    minimal: true
+    link-external-newwindow: true
     template-partials:
       - _partials/title-block.html
     theme:
