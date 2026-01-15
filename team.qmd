@@ -1,34 +1,9 @@
 ---
 title: "Team"
-listing:
-  - id: local-orgs
-    template: _partials/team-list.ejs
-    contents:
-        - people/MC.qmd
-        - people/SL.qmd
-        - people/KB.qmd
-        - people/SL.qmd
-    type: grid
-  
-  - id: program-committee
-    contents:
-       - people/ECM.qmd
-       - people/JT.qmd
-    type: grid
        
 ---
 
 ## Local Organizers
-
-:::{#local-orgs}
-:::
-
-## Program Committee
-
-:::{#program-committee}
-::: 
-
-<!-- ## Local Organizers
 
 * Mary Chapman (UBC)
 * Sydney Lines (UBC)
@@ -37,12 +12,15 @@ listing:
 
 ## Program Committee
 
-* Emily Christina Murphy (UBCO) (Co-Chair)
-* Joey Takeda (SFU) (Co-Chair)
-* Diane Jakacki (Bucknell) (Steering Committee)
-* Gimena Del Rio Grande () (Steering Committee)
-* James Cummings (Newcastle) (Steering Committee)
-* Constance Crompton (Ottawa) (Steering Committee) -->
+### Co-Chairs
+* Emily Christina Murphy (UBCO)
+* Joey Takeda (SFU)
+
+### Steering Committee
+* Diane Jakacki (Bucknell) 
+* Gimena del Río Riande (CONICET) 
+* James Cummings (Newcastle)
+* Constance Crompton (Ottawa)
 
 <!-- ## Peer Reviewers -->
 

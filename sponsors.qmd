@@ -4,20 +4,24 @@ title: "Sponsors"
 
 We would like to thank the following organizations for their support in hosting TEI 2026.
 
-::: {layout-ncol=3}
-[![](logos/output/TEI_Logo_Horizontal.png)](https://tei-c.org/)
 
-![](logos/output/disa.png)
+::: {layout-ncol=3} 
 
-![](logos/output/dhil.png)
+![Social Sciences and Humanities Research Council](logos/output/sshrc.png)
 
-![](logos/output/hcmcLogo.png)
+[![TEI Consortium](logos/output/TEI_Logo_Horizontal.png)](https://tei-c.org/)
 
-![](logos/output/phh.png)
+![UBC Digital Scholarship in the Arts](logos/output/disa.png)
 
-![](logos/output/canlit.png)
+![SFU Digital Humanities Innovation Lab](logos/output/dhil.png)
 
-![](logos/output/ubc-library.png)
+![UVic Humanities and Media Computing Centre](logos/output/hcmcLogo.png)
+
+![UBC Public Humanities Hub](logos/output/phh.png)
+
+![Canadian Literature](logos/output/canlit.png)
+
+![UBC LIbrary](logos/output/ubc-library.png)
 
 :::
 

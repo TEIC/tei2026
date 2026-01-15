@@ -13,11 +13,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      # - text: About
-      #   menu: 
-      #     - team.qmd
-      #     - sponsors.qmd
-      #     - code-of-conduct.qmd
+      - text: About
+        menu: 
+          - team.qmd
+          - sponsors.qmd
       # - href: CFP.qmd
       #   text: CFP
       # - location.qmd

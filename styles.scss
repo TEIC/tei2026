@@ -86,8 +86,15 @@ $h4-font-size: $font-size-1;
 .footer,
 .nav-footer {
   background: $light-bg-subtle;
+  .nav-footer-middle {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+  }
   img {
-    max-width: 8rem;
     height: auto;
+    max-width: 12rem;
   }
 }
