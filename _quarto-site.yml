@@ -17,8 +17,8 @@ website:
         menu: 
           - team.qmd
           - sponsors.qmd
-      # - href: CFP.qmd
-      #   text: CFP
+      - href: CFP.qmd
+        text: CFP
       # - location.qmd
     search: false
     bread-crumbs: true
