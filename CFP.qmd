@@ -34,7 +34,9 @@ We welcome submissions to do with any aspect of text encoding and digital textua
 
 ## Submission Details and Guidelines
 
-Paper submission is available via [https://www.conftool.pro/tei2026](https://www.conftool.pro/tei2026). All submissions to the main conference program will undergo open peer review by multiple members of the Program Committee before acceptance.
+<!-- Paper submission  available via [https://www.conftool.pro/tei2026](https://www.conftool.pro/tei2026).  -->
+
+All submissions to the main conference program will undergo open peer review by multiple members of the Program Committee before acceptance.
 
 Submissions should be in English and include a title, an abstract, and up to five keywords. Do not include identifying information in your submission. 
 
@@ -52,7 +54,7 @@ The following word counts apply to the text of the abstract, excluding titles, b
 
 ## TEI Special Interest Groups (SIGs)
 
-TEI SIG coordinators should register their interest in holding a meeting during the conference through [ConfTool](https://www.conftool.pro/tei2026).
+TEI SIG coordinators should register their interest in holding a meeting during the conference through the conference submission site.
 
 ## Additional information
 
@@ -60,6 +62,6 @@ The conference will be held in person. The TEI plans to hold its annual general 
 
 Additional details regarding registration, accommodation, etc. will be announced on the conference website, the TEI mailing list, and the TEI Slack channel. 
 
-After the conference, the authors of accepted submissions will be invited to submit a full-length paper to a special issue of the peer-reviewed and open-access [*Journal of the Text Encoding Initiative*](https://journals.openedition.org/jtei/), which will serve as curated proceedings for this year’s TEI conference. Papers submitted to the Journal will undergo a new round of peer review by either Program Committee members or the wider community before publication.
+After the conference, the authors of accepted submissions will be invited to submit a full-length paper to a special issue of the peer-reviewed and open-access [*Journal of the Text Encoding Initiative*](https://journals.openedition.org/jtei/), which will serve as curated proceedings for this year’s TEI conference. Papers submitted to the *JTEI* will undergo a new round of peer review by either Program Committee members or the wider community before publication.
 
 Contact information: [teiconf2026@gmail.com](mailto:teiconf2026@gmail.com) 
