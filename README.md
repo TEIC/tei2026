@@ -9,3 +9,11 @@ Conference website for TEI 2026, built using Quarto.
    ```
    quarto preview
    ```
+
+## Updating
+
+All content is in the root of the project directory and correspond to pages on the website. All pages are written in Markdown. 
+
+See the Quarto documentation for detailed instructions on editing QMD files. 
+
+
