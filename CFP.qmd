@@ -8,9 +8,17 @@ We are pleased to announce the call for papers, posters, panels, tool demonstrat
 
 The conference will be held August 10-14, 2026 (Mon-Fri) at the [University of British Columbia](https://ubc.ca), Vancouver, BC, Canada on the unceded, unsurrendered, traditional and ancestral territories of the [xʷməθkʷəy̓əm (Musqueam) people](https://www.musqueam.bc.ca/our-story/our-territory/). 
 
+::: {.callout-tip}
+## Submit your abstract
+
+Submit your abstract via [ConfTool](https://conftool.pro/tei2026/)
+
+:::
+
+
 ## Important Dates
 
-**February 19, 2026:** Deadline for submissions (submission link forthcoming)
+**February 19, 2026:** Deadline for submissions
 **April 20, 2026:** Notification of acceptance and invitation to authors of accepted submissions. Registration opens.  
 **June 1, 2026:** Presenter final abstracts and early registration deadline. At least one author per accepted submission must register and confirm in-person participation.  
 **June 1, 2026:** SIG meeting room request deadline  
@@ -34,7 +42,7 @@ We welcome submissions to do with any aspect of text encoding and digital textua
 
 ## Submission Details and Guidelines
 
-<!-- Paper submission  available via [https://www.conftool.pro/tei2026](https://www.conftool.pro/tei2026).  -->
+ Paper submission  available via [https://www.conftool.pro/tei2026](https://www.conftool.pro/tei2026).
 
 All submissions to the main conference program will undergo open peer review by multiple members of the Program Committee before acceptance.
 
