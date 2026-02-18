@@ -4,21 +4,22 @@ toc: true
 toc-location: left
 ---
 
-We are pleased to announce the call for papers, posters, panels, tool demonstrations, and workshops for the 26th annual meeting of the [Text Encoding Initiative (TEI)](https://tei-c.org). **TEI 2026: Creating Connections, Unsettling Practices** seeks to bring together scholars, librarians, developers, and students to address the ethical, social, and technical challenges of digital textual editing in the 21st century.
-
-The conference will be held August 10-14, 2026 (Mon-Fri) at the [University of British Columbia](https://ubc.ca), Vancouver, BC, Canada on the unceded, unsurrendered, traditional and ancestral territories of the [xʷməθkʷəy̓əm (Musqueam) people](https://www.musqueam.bc.ca/our-story/our-territory/). 
-
-::: {.callout-tip}
-## Submit your abstract
+::: {.callout-important}
+## Deadline extended! Submit by Feb 27th
 
 Submit your abstract via [ConfTool](https://conftool.pro/tei2026/)
 
 :::
+We are pleased to announce the call for papers, posters, panels, tool demonstrations, and workshops for the 26th annual meeting of the [Text Encoding Initiative (TEI)](https://tei-c.org). **TEI 2026: Creating Connections, Unsettling Practices** seeks to bring together scholars, librarians, developers, and students to address the ethical, social, and technical challenges of digital textual editing in the 21st century.
+
+The conference will be held August 10-14, 2026 (Mon-Fri) at the [University of British Columbia](https://ubc.ca), Vancouver, BC, Canada on the unceded, unsurrendered, traditional and ancestral territories of the [xʷməθkʷəy̓əm (Musqueam) people](https://www.musqueam.bc.ca/our-story/our-territory/). 
 
 
 ## Important Dates
 
-**February 19, 2026:** Deadline for submissions
+**EXTENDED: February 27, 2026:** Deadline for submissions 
+
+ ~~**February 19, 2026:** Deadline for submissions~~
 
 **April 20, 2026:** Notification of acceptance and invitation to authors of accepted submissions. Registration opens.  
 
