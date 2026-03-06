@@ -2,7 +2,9 @@
 title: "Peer Review Guide"
 ---
 
-Please enter your results before the end of the reviewing phase on April 15, 2026\. During this phase it is also possible to edit and print your entries.
+Thank you for serving as a reviewer for TEI 2026! The peer review process is single blind: reviewers will not be given the names of authors of abstracts that they review, but all names of reviewers will be published on the TEI website as contributors to the conference organizing team and in the conference book of abstracts. 
+
+This peer review guide assumes that you have bid on the abstracts you wish to review by the March 18 deadline. After the chairs have assigned you abstracts, please enter your reviews before the end of the reviewing phase on April 14, 2026. During the reviewing phase it is also possible to edit and print your entries.
 
 If you are unable to evaluate all submissions assigned to you, please notify the chair of the program committee, Emily Christina Murphy ([teiconf2026@gmail.com](mailto:teiconf2026@gmail.com)), as soon as possible so that they can allocate new or additional reviewers.
 
@@ -10,16 +12,17 @@ Please note that the submissions you are evaluating are unpublished work of othe
 
 As the TEI community is small, the primary goal of your review should be to improve the quality of the planned presentation in advance of the conference and publication of the book of abstracts. Any rejected submissions should fall clearly and far below acceptable quality. 
 
-**Quality of Content \-- 20%** 
+### Quality of Content \-- 20% 
 
 - Please evaluate methodological consistency, originality compared to existing research, soundness of argument here. 
 
-**Thematic Relevance \-- 20%** 
+### Thematic Relevance \-- 20% 
 
 - How well does the proposed contribution align with the conference theme, “Creating Connections, Unsettling Practices”? Find this year’s CFP and conference theme here: [https://tei2026.tei-c.org/CFP.html](https://tei2026.tei-c.org/CFP.html)
 - If the proposal falls outside of this year’s conference theme, is the topic nevertheless relevant to the TEI community? 
 
 *For Quality of Content and Thematic Relevance, rank the submission on these numerical criteria:*  
+
 10 \- Excellent  
 08 \- Very Good  
 06 \- Acceptable with some improvement  
@@ -27,8 +30,10 @@ As the TEI community is small, the primary goal of your review should be to impr
 02 \- Falls somewhat below acceptable  
 00 \- Falls far below acceptable
 
-**Overall Recommendation \-- 60%**  
+### Overall Recommendation \-- 60% 
+
 *For Overall Recommendation, rank the submission on these numerical criteria:*  
+
 10 \- Definitely accept (very high quality)  
 08 \- Probably accept (good quality)   
 06 \- Lean towards acceptance (borderline quality)  
@@ -36,9 +41,13 @@ As the TEI community is small, the primary goal of your review should be to impr
 02 \- Probably reject (minor quality)  
 00 \- Definitely reject (has no merit)
 
-**Comments for the Authors:** Please explain your evaluation in a detailed and clear manner. Point out strengths and weaknesses of the submitted contribution. Please also provide suggestions for improvement and use an objective and constructive writing style.
+### Comments for the Authors
 
-**Information for the Program Committee:** These comments are only for the chairs and members of the program committee (PC) and will not be passed on to authors. Please include in your comments:
+Please explain your evaluation in a detailed and clear manner. Point out strengths and weaknesses of the submitted contribution. Please also provide suggestions for improvement and use an objective and constructive writing style.
 
-- Appropriateness of format (long paper, short paper, poster, panel), and whether another format is recommended for this submission   
-- Other comments or considerations for the Chair
+### Information for the Program Committee:
+
+These comments are only for the chairs and members of the program committee (PC) and will not be passed on to authors. Please include in your comments:
+
+* Appropriateness of format (long paper, short paper, poster, panel), and whether another format is recommended for this submission
+* Other comments or considerations for the Chair
