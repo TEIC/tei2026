@@ -33,12 +33,12 @@ How well does the proposed contribution align with the conference theme, [“Cre
 
 *For Overall Recommendation, rank the submission on these numerical criteria:*  
 
-10 \- Definitely accept 
-08 \- Probably accept 
-06 \- Lean towards acceptance
-04 \- Lean towards rejection
-02 \- Probably reject   
-00 \- Definitely reject
+10 \- Definitely accept    
+08 \- Probably accept  
+06 \- Lean towards acceptance  
+04 \- Lean towards rejection  
+02 \- Probably reject  
+00 \- Definitely reject  
 
 ### Comments for the Authors
 
