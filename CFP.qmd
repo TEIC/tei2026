@@ -4,10 +4,10 @@ toc: true
 toc-location: left
 ---
 
-::: {.callout-important}
-## Deadline extended! Submit by Feb 27th
+::: {.callout-warning}
+## CFP Closed
 
-Submit your abstract via [ConfTool](https://conftool.pro/tei2026/)
+Submissions are now closed. Authors will be notified with the results of peer review by the end of April.
 
 :::
 We are pleased to announce the call for papers, posters, panels, tool demonstrations, and workshops for the 26th annual meeting of the [Text Encoding Initiative (TEI)](https://tei-c.org). **TEI 2026: Creating Connections, Unsettling Practices** seeks to bring together scholars, librarians, developers, and students to address the ethical, social, and technical challenges of digital textual editing in the 21st century.
