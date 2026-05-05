@@ -1,0 +1,14 @@
+
+::: {.callout-important icon="false"}
+
+## Call for Late-Breaking Posters (Deadline: May 27th, 2026)
+
+Missed the deadline to submit a proposal for TEI 2026? Now is your chance! We are pleased to announce an extended call for late-breaking posters for TEI 2026: Creating Connections, Unsettling Practices. 
+
+Late-breaking poster submissions are expected to report on early-stage work, introduce new work, projects, or software, or present experimental ideas for community feedback. A “poster slam” session will be dedicated to presentations of 1 minute each. Poster presenters will have the chance to tell interested parties more about their project during the poster exhibition, where the audience can browse freely. Proposals should not exceed 300 words and should be submitted via [ConfTool](https://www.conftool.pro/tei2026/). 
+
+We particularly encourage undergraduate, graduate, early-career, and marginalized scholars to apply as well for one of two needs-based [Travel Assistance awards](https://docs.google.com/forms/d/e/1FAIpQLSfao1trvPAPrRUpV4_rp0A2CLoLHVEA_GpgBQkWYVbeOQr_Lg/viewform). You may apply for a travel award while your poster proposal is under adjudication.
+
+All late-breaking poster proposals are due **May 27, 2026** and will be reviewed by June 5, 2026. 
+
+:::
