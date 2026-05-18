@@ -1,0 +1,201 @@
+---
+title: Local Information
+toc: true
+toc-location: left
+---
+
+## About Vancouver and UBC
+
+Vancouver is a coastal city on the southwestern tip of the Canadian mainland, bounded by mountains to the north and the Pacific Ocean to the west. It consistently ranks among the most livable cities in the world, and the UBC campus — occupying the tip of the Point Grey peninsula — offers some of the most dramatic scenery of any university setting anywhere.
+
+UBC is a global research university, ranked among the top 40 institutions worldwide. The Point Grey campus spans over 400 hectares and encompasses forests, gardens, beaches, and world-class research facilities. It is about 10 km from downtown Vancouver and roughly 25 km from the airport — a 25–30-minute drive under normal traffic conditions.
+
+The University of British Columbia's Vancouver campus sits on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) people.[^1: "Unceded" means that the Musqueam people never signed a treaty ceding their lands to the Crown.] Visitors to campus will notice Musqueam presence throughout — in the street signs, the public art, the totem poles, and the names of buildings and residences. 
+
+
+## Accommodations 
+
+::: {.alert .alert-info}
+Hotels fill up quickly in August. Book early to secure availability and the best rates.
+:::
+
+### Conference Hotel 
+
+We have a limited number of discounted rooms with Gage Suites on campus at $262 CAD per night + tax. Use the [group booking link]( 
+https://reserve.suitesatubc.com/GROUP/availability.asp?hotelCode=UBC&sdl=Check+In&startDate=08%2F09%2F2026&edl=Check+Out&endDate=08%2F14%2F2026&adults=1&children=&rooms=1&requesttype=invBlockCode&code=G260809B) to secure your room:
+
+Alternatively, guests can call the Reservations Office at (604) 822-1000, Ext. 3, or toll free at 1-888-822-1030 or email reservations@housing.ubc.ca and indicate they are with the Text Encoding Initiative Conference 2026 or mention the Group Code (G260809B) to receive the group rate.
+ 
+Please note that the discounted group rate extends for three days before the August 9th official check in date and three days after the August 14th check out date, though these dates are subject to hotel availability. You will have to manually change the dates on the website. 
+
+### Other accommodations on campus
+
+All other accommodations are subject to availability. 
+
+::: {.list-table header-rows=0}
+- - [**West Coast Suites**](https://suitesatubc.com/west-coast-suites-vancouver/)
+  - A variety of studio and 1-bedroom suites with full kitchens starting at $305 CAD + tax.
+
+- - [**Carey Centre**](https://www.carey-edu.ca/short-term-accommodation#accommodations)
+  - A range of room options including Queen, Double Twin, Studio, and 1 and 2-bed apartments starting at $249 CAD + tax.
+
+- - [**Pacific Spirit Hostel**](https://pacificspirithostel.com/ )
+  - Budget-style dormitory accommodations at UBC’s Place Vanier Residence with single and twin suites starting at $91 CAD + tax.
+:::
+
+### Accommodations off campus
+UBC campus is located on the western most edge of the Point Grey peninsula. We don’t recommend that you stay off campus, but if you choose to, be aware that you will likely have at least a 30-minute commute by transit depending on traffic and your specific location. Vancouver has several hotel options available in the city centre. We recommend using whichever travel accommodation search provider you’re most comfortable with to locate off campus accommodations. 
+
+ The following areas offer convenient access to UBC via public transit or short taxi rides:
+
+- **Kitsilano** — A lively neighbourhood 5–10 minutes from campus by bus, with restaurants, cafés, and shops along 4th Avenue and Broadway.
+- **Point Grey / Dunbar** — Quiet residential neighbourhoods immediately adjacent to the campus, with a handful of B&Bs and rental properties.
+- **Downtown Vancouver** — A broader range of hotels at various price points. Downtown is approximately 30–45 minutes from campus by the #99 B-Line bus and SkyTrain, or 25–30 minutes by taxi.
+
+For hotel listings across the city, [Destination Vancouver](https://www.destinationvancouver.com/) maintains a comprehensive accommodations directory.
+
+## Getting Here: Vancouver International Airport (YVR)
+
+[Vancouver International Airport (YVR)](https://www.yvr.ca/) is located on Sea Island in Richmond, approximately 25 km south of UBC. It is consistently rated the best airport in North America and among the most accessible airports in the world.
+
+**International connections:** YVR offers nonstop service to destinations across Europe, Asia, Oceania, the United States, and Mexico. Domestic flights connect Vancouver to cities across Canada.
+
+**US travellers:** YVR is one of eight Canadian airports with US border pre-clearance facilities, meaning American-bound passengers clear US customs and immigration before departure, arriving in the US as domestic travellers. This can significantly streamline re-entry for US-based conference delegates.
+
+For a full list of airlines, routes, and ground transportation at the airport, visit [yvr.ca](https://www.yvr.ca/).
+
+## Getting to UBC 
+
+### By Taxi or Rideshare
+
+Taxis and rideshare services (Uber and Lyft both operate in Vancouver) are the most direct option. The journey to UBC takes approximately 25–30 minutes under normal traffic conditions. Taxis have set zone-based fares from the airport and are queued outside both the domestic and international arrivals areas.
+
+### By Public Transit
+
+Metro Vancouver's rapid transit system, the [Canada Line SkyTrain](https://www.translink.ca/), runs directly from YVR Airport station to downtown Vancouver and beyond. Note that all passengers departing from YVR on the Canada Line are subject to a $5 YVR AddFare in addition to the standard zone fare; this is applied automatically when you tap or purchase a fare.
+
+Tap-to-pay (with Compass Card or contactless credit/debit card) is the simplest way to pay. Single fares, day passes, and multi-day passes are available. For planning, use the [TransLink Trip Planner](https://www.translink.ca/).
+
+To reach UBC from the airport by transit, you will need to take the Canada Line to a transfer point and then board a bus to campus. Several options exist:
+
+- Transfer at **Oakridge-41st Avenue station** to bus #41 UBC or #43 UBC
+- Transfer at **Broadway-City Hall station** to the #99 B-Line (a frequent express service along Broadway)
+- Transfer at **Olympic Village station** to bus #84 UBC
+
+The #99 B-Line is generally the fastest and most frequent option during peak hours.
+
+For current fares, schedules, and trip planning, use the [TransLink trip planner](https://www.translink.ca/). Transit information specific to arriving at YVR is also available on [YVR's public transportation page](https://www.yvr.ca/en/passengers/transportation/public-transportation).
+
+
+## Things to Do: On Campus
+
+The UBC campus has considerable attractions in its own right, and most are within easy walking distance of the conference venues.
+
+### Museum of Anthropology (MOA)
+
+One of Canada's foremost museums of anthropology, MOA holds an extraordinary collection of Northwest Coast Indigenous art and artifacts, including monumental totem poles and works by Bill Reid. The museum's building, designed by Arthur Erickson and recently re-opened after extensive renovations, is an architectural landmark in itself.
+
+6393 NW Marine Drive | [moa.ubc.ca](https://moa.ubc.ca)
+
+### UBC Botanical Garden
+
+Established in 1916, UBC Botanical Garden holds one of the finest collections of temperate plants in North America, organized by geographic origin. Highlights include the Native Garden, the Alpine Garden, and the Greenheart Canopy Walkway — a 308-metre aerial trail through the West Coast forest canopy, the only one of its kind in Canada.
+
+6804 SW Marine Drive | [botanicalgarden.ubc.ca](https://botanicalgarden.ubc.ca)
+
+### Nitobe Memorial Garden
+
+Widely considered the finest traditional Japanese tea and stroll garden in North America, and among the top five Japanese gardens outside Japan. The garden includes an authentic Tea House and Tea Garden.
+
+1895 Lower Mall | [botanicalgarden.ubc.ca/visit/nitobe-memorial-garden](https://botanicalgarden.ubc.ca/visit/nitobe-memorial-garden/)
+
+### Beaty Biodiversity Museum
+
+Home to more than two million natural history specimens, including the largest blue whale skeleton on display in Canada. A compelling visit for anyone with a biological bent.
+
+2212 Main Mall | [beatymuseum.ubc.ca](https://beatymuseum.ubc.ca)
+
+### UBC Recreation Facilities
+
+UBC Recreation offers access to fitness centres, aquatic facilities, and a variety of sport and activity programs during the summer months. The Student Recreation Centre (SRC) is one of Canada's premier university fitness facilities.
+
+6080 Student Union Boulevard | [recreation.ubc.ca](https://recreation.ubc.ca)
+
+### Pacific Spirit Regional Park
+
+Surrounding the UBC campus on three sides, Pacific Spirit Regional Park encompasses 763 hectares of forest and foreshore, with 73 km of walking and cycling trails. Landscapes range from ancient bog and upland forest to estuary marshes and cobble beaches. Trail maps and guided programs are available.
+
+4915 W 16th Ave (park office) | [vancouvertrails.com/trails/pacific-spirit](https://www.vancouvertrails.com/)
+
+### Wreck Beach
+
+A beloved Vancouver institution: a clothing-optional beach at the foot of the cliffs below the northwest corner of campus, accessible via a steep trail. It has a distinctive community atmosphere and vendors selling snacks and cold drinks in summer.
+
+
+## Things to Do: Greater Vancouver
+
+### Stanley Park
+
+A 400-hectare forested peninsula jutting into Burrard Inlet at the edge of downtown, Stanley Park is one of the great urban parks in the world. Walk or cycle the 9-km seawall, visit the Vancouver Aquarium, explore forest trails, or simply enjoy the views of the North Shore mountains.
+
+### Granville Island
+
+Granville Island is home to a lively public market, artist studios, galleries, theatres, and restaurants. Reachable by False Creek ferry from downtown or Kitsilano.
+
+### Kitsilano Beach & Jericho Beach
+
+Two popular sandy beaches on the south shore of English Bay, within a 10–20-minute bus ride from campus. Kitsilano also has an outdoor saltwater pool. These beaches are busy on warm summer evenings and weekends.
+
+### Capilano Suspension Bridge
+
+Located in North Vancouver, the Capilano Suspension Bridge spans 140 metres across the Capilano River gorge, 70 metres above the water. The park also includes treetop walkways and cliffside paths through coastal rainforest.
+
+### Museum of Vancouver & Vancouver Art Gallery
+
+Both located in downtown Vancouver. The Museum of Vancouver covers the city's history and culture; the Vancouver Art Gallery holds an impressive collection including a major gallery dedicated to BC artist Emily Carr.
+
+### Richmond Night Market
+
+During the summer months, the Richmond Night Market (one of the largest night markets in North America) is held near Bridgeport SkyTrain station in Richmond, with food stalls representing dozens of Asian cuisines, merchandise, and entertainment. An easy trip from downtown or UBC via the Canada Line.
+
+## Practical Information
+
+### Entry Requirements: Visas & Electronic Travel Authorizations
+
+Requirements for entering Canada vary by nationality. Most visitors need either a **visa** or an **Electronic Travel Authorization (eTA)** — but not both. A small number of nationalities need only a valid passport. To check which document applies to your nationality, use the Government of Canada's [online tool](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html).
+
+### Currency & Banking
+
+Canada uses the **Canadian dollar (CAD)**. At the time of writing, the Canadian dollar trades at a discount relative to the US dollar and Euro, which makes Vancouver reasonably affordable for many international visitors despite its reputation as an expensive city.
+
+Visa, Mastercard, and American Express are widely accepted in stores and restaurants. Debit cards on international networks (Visa Debit, Maestro) work at most point-of-sale terminals. ATMs are available at the airport, on campus, and throughout the city.
+
+**Tipping:** Tipping is customary in Vancouver. A tip of 15–20% is standard at restaurants, cafés with table service, taxis, and for other personal services. Some point-of-sale terminals will suggest percentages automatically.
+
+### Weather & What to Pack
+
+The conference takes place during Vancouver's summer, which is characteristically warm, sunny, and dry. July and August are the most reliably pleasant months on the coast, with long days and little rain.
+
+- **Temperature:** Daytime highs typically reach 22–30°C. Evenings cool down noticeably.
+- **Daylight:** There are approximately 16 hours of daylight around midsummer.
+- **Rain:** Summer is the driest season in Vancouver, though a light rain jacket is never a bad idea.
+
+**What to bring:**
+- Light clothing or short sleeves for daytime sessions and outdoor activities
+- A light jacket or sweater for evenings and air-conditioned venues
+- Comfortable walking shoes — the campus is large and much of the surrounding area is best explored on foot
+- Sunscreen — summer UV levels can be higher than expected at this latitude
+
+### Medical & Emergency Services
+
+Medical standards in Canada are high. Emergency services can be reached by dialling **911**. For non-emergency medical needs, walk-in clinics are available throughout Vancouver. Visitors should ensure they have adequate travel health insurance, as hospital costs for non-residents are not covered by the provincial health system.
+
+
+
+### Further Reading & Resources
+
+- [Musqueam Indian Band official website](http://www.musqueam.bc.ca/) — The band's own site is the best place to learn about Musqueam history, governance, culture, and current initiatives directly from the community.
+- [UBC Indigenous Portal: Musqueam & UBC](https://indigenous.ubc.ca/indigenous-engagement/musqueam-and-ubc/) — An overview of the UBC–Musqueam relationship, with links to key partnerships and initiatives.
+- [Musqueam: Land Beneath Our Feet — UBC Library Resource Guide](https://guides.library.ubc.ca/Musqueam/home) — A curated guide from Xwi7xwa Library covering Musqueam history, culture, land, and related scholarship.
+- [Connecting Communities: Principles for Musqueam-UBC Collaboration](https://sustain.ubc.ca/sites/sustain.ubc.ca/files/Sustainability%20Scholars/2015%20SS%20Projects/2015%20Executive%20Summaries/UBC-Musqueam%20Collaboration%20-%20UBC%20Sustainability%20Scholars%202015.pdf) — A report on the principles and procedures for respectful collaboration between UBC and the Musqueam Indian Band.
+- [UBC Aboriginal Centennial](https://centennial.aboriginal.ubc.ca/) — Documents the history of UBC's relationship with Aboriginal peoples and communities, including the "hidden history" of how the university's early development obscured the long presence of Musqueam on the land.
