@@ -18,9 +18,13 @@ website:
           - team.qmd
           - sponsors.qmd
           - peer-review-guide.qmd
+    #  - text: Registration
+    #    href: registration.qmd
+    #  - text: Schedule
+    #    href: schedule.qmd
+    #  - local.qmd
       - href: CFP.qmd
         text: CFP
-      # - location.qmd
     search: false
     bread-crumbs: true
 format:

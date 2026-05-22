@@ -1,0 +1,43 @@
+---
+title: Registration
+---
+
+Conference registration is now open! Please register using [EventBrite](https://www.eventbrite.ca/e/tei-2026-creating-connections-unsettling-practices-tickets-1989151655147).
+
+Registration fees include:
+
+* Access to all workshops, presentations, panels, and keynotes
+* Coffee and light snacks in the morning and afternoons
+* Lunch, Tuesday and Thursday
+* Opening Reception Dinner, Monday, August 10th at Green College
+* Evening Social (Hors d'oeuvres), Wednesday, August 12th at Koerner's Pub
+* Banquet Dinner, Thursday, August 13th at Wildlight Kitchen + Bar
+* Closing Lunch and Reception, Friday, August 14th at SFU Harbour Centre
+
+All prices are in CAD. Early bird rates are available until June 8th. Registration closes July 6.
+
+::: {.list-table}
+
+- - Group
+  - Early Bird Rate (until June 8)
+  - Regular Rate (until July 6)
+
+- - Students/Early Career/Underemployed/[HPSM](https://equity.ubc.ca/resources/equity-inclusion-glossary-of-terms/#H)
+  - $150.00
+  - $200.00
+
+- - TEI Member (Coupon Code available on the [TEI's Member Info page](https://members.tei-c.org/MemberInfo))
+  - $295.00 
+  - $365.00 
+
+- - Non-TEI Member
+  - $395.00
+  - $465.00
+
+:::
+
+
+```{=html}
+<br/>
+<a href="https://www.eventbrite.ca/e/tei-2026-creating-connections-unsettling-practices-tickets-1989151655147" class="btn btn-primary w-100" role="button">Register now (EventBrite)</a>
+```

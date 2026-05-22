@@ -1,5 +1,5 @@
 ---
-title: Local Information
+title: Location and Accommodations
 toc: true
 toc-location: left
 ---
@@ -10,8 +10,7 @@ Vancouver is a coastal city on the southwestern tip of the Canadian mainland, bo
 
 UBC is a global research university, ranked among the top 40 institutions worldwide. The Point Grey campus spans over 400 hectares and encompasses forests, gardens, beaches, and world-class research facilities. It is about 10 km from downtown Vancouver and roughly 25 km from the airport — a 25–30-minute drive under normal traffic conditions.
 
-The University of British Columbia's Vancouver campus sits on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) people.[^1: "Unceded" means that the Musqueam people never signed a treaty ceding their lands to the Crown.] Visitors to campus will notice Musqueam presence throughout — in the street signs, the public art, the totem poles, and the names of buildings and residences. 
-
+The University of British Columbia's Vancouver campus sits on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) people.^["Unceded" means that the Musqueam people never signed a treaty ceding their lands to the Crown.] Visitors to campus will notice Musqueam presence throughout — in the street signs, the public art, the totem poles, and the names of buildings and residences.^[See [UBC Indigenous Portal: Musqueam & UBC](https://indigenous.ubc.ca/indigenous-engagement/musqueam-and-ubc/) and [Musqueam: Land Beneath Our Feet — UBC Library Resource Guide](https://guides.library.ubc.ca/Musqueam/home) for further information.]
 
 ## Accommodations 
 
@@ -21,8 +20,14 @@ Hotels fill up quickly in August. Book early to secure availability and the best
 
 ### Conference Hotel 
 
-We have a limited number of discounted rooms with Gage Suites on campus at $262 CAD per night + tax. Use the [group booking link]( 
+We have a limited number of discounted rooms with [Gage Suites](https://suitesatubc.com/gage-apartments-vancouver/) on campus at $262 CAD per night + tax. Use the [group booking link]( 
 https://reserve.suitesatubc.com/GROUP/availability.asp?hotelCode=UBC&sdl=Check+In&startDate=08%2F09%2F2026&edl=Check+Out&endDate=08%2F14%2F2026&adults=1&children=&rooms=1&requesttype=invBlockCode&code=G260809B) to secure your room:
+
+::: {.list-table header-rows=0}
+- - [**Gage Suites**](https://reserve.suitesatubc.com/GROUP/availability.asp?hotelCode=UBC&sdl=Check+In&startDate=08%2F09%2F2026&edl=Check+Out&endDate=08%2F14%2F2026&adults=1&children=&rooms=1&requesttype=invBlockCode&code=G260809B)
+  - Group Code: G260809B
+  - A variety of studio, 1-bedroom, and 2-bedroom suites. Conference rate is $262 per night + tax.
+:::
 
 Alternatively, guests can call the Reservations Office at (604) 822-1000, Ext. 3, or toll free at 1-888-822-1030 or email reservations@housing.ubc.ca and indicate they are with the Text Encoding Initiative Conference 2026 or mention the Group Code (G260809B) to receive the group rate.
  
@@ -190,12 +195,3 @@ The conference takes place during Vancouver's summer, which is characteristicall
 
 Medical standards in Canada are high. Emergency services can be reached by dialling **911**. For non-emergency medical needs, walk-in clinics are available throughout Vancouver. Visitors should ensure they have adequate travel health insurance, as hospital costs for non-residents are not covered by the provincial health system.
 
-
-
-### Further Reading & Resources
-
-- [Musqueam Indian Band official website](http://www.musqueam.bc.ca/) — The band's own site is the best place to learn about Musqueam history, governance, culture, and current initiatives directly from the community.
-- [UBC Indigenous Portal: Musqueam & UBC](https://indigenous.ubc.ca/indigenous-engagement/musqueam-and-ubc/) — An overview of the UBC–Musqueam relationship, with links to key partnerships and initiatives.
-- [Musqueam: Land Beneath Our Feet — UBC Library Resource Guide](https://guides.library.ubc.ca/Musqueam/home) — A curated guide from Xwi7xwa Library covering Musqueam history, culture, land, and related scholarship.
-- [Connecting Communities: Principles for Musqueam-UBC Collaboration](https://sustain.ubc.ca/sites/sustain.ubc.ca/files/Sustainability%20Scholars/2015%20SS%20Projects/2015%20Executive%20Summaries/UBC-Musqueam%20Collaboration%20-%20UBC%20Sustainability%20Scholars%202015.pdf) — A report on the principles and procedures for respectful collaboration between UBC and the Musqueam Indian Band.
-- [UBC Aboriginal Centennial](https://centennial.aboriginal.ubc.ca/) — Documents the history of UBC's relationship with Aboriginal peoples and communities, including the "hidden history" of how the university's early development obscured the long presence of Musqueam on the land.
