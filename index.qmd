@@ -9,7 +9,16 @@ title-block-banner: "logos/ubc.jpg"
 ---
 
 
-## Save the date! August 10-14, Vancouver, BC, Canada
+## TEI 2026: August 10th-14th
+
+
+::: {.callout icon="false"}
+
+## Registration now open!
+
+Early bird registration is now open! See [Registration](./registration.html) for more details.
+
+:::
 
 {{< include _poster-callout.qmd >}}
 
