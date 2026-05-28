@@ -79,7 +79,7 @@ Taxis and rideshare services (Uber and Lyft both operate in Vancouver) are the m
 
 Metro Vancouver's rapid transit system, the [Canada Line SkyTrain](https://www.translink.ca/), runs directly from YVR Airport station to downtown Vancouver and beyond. Note that all passengers departing from YVR on the Canada Line are subject to a $5 YVR AddFare in addition to the standard zone fare; this is applied automatically when you tap or purchase a fare.
 
-Tap-to-pay (with Compass Card or contactless credit/debit card) is the simplest way to pay. Single fares, day passes, and multi-day passes are available. For planning, use the [TransLink Trip Planner](https://www.translink.ca/).
+Tap-to-pay (with Compass Card or contactless credit/debit card) is the simplest way to pay. Single fares, day passes, and multi-day passes are available. For planning, Google Maps, Apple Maps, and the [TransLink Trip Planner](https://www.translink.ca/) all provide accurate, up-to-date information about routes, schedules, and current bus/train status. 
 
 To reach UBC from the airport by transit, you will need to take the Canada Line to a transfer point and then board a bus to campus. Several options exist:
 
@@ -88,6 +88,7 @@ To reach UBC from the airport by transit, you will need to take the Canada Line 
 - Transfer at **Olympic Village station** to bus #84 UBC
 
 The #99 B-Line is generally the fastest and most frequent option during peak hours.
+
 
 For current fares, schedules, and trip planning, use the [TransLink trip planner](https://www.translink.ca/). Transit information specific to arriving at YVR is also available on [YVR's public transportation page](https://www.yvr.ca/en/passengers/transportation/public-transportation).
 
@@ -151,6 +152,12 @@ Granville Island is home to a lively public market, artist studios, galleries, t
 
 Two popular sandy beaches on the south shore of English Bay, within a 10–20-minute bus ride from campus. Kitsilano also has an outdoor saltwater pool. These beaches are busy on warm summer evenings and weekends.
 
+### Bard on the Beach (Vanier Park)
+
+"Bard on the Beach is Western Canada’s largest not-for-profit, professional Shakespeare Festival. Presented in Vancouver’s Sen̓ákw/Vanier Park against a spectacular backdrop of mountains, sea and sky, the Festival offers Shakespeare plays, related dramas and special events in two modern performance tents from June through September, with an average attendance of 80,000" ([About Us](https://bardonthebeach.org/about-us/)).
+
+This year, Bard on the Beach is staging [*The Merry Wives of Windor*](https://bardonthebeach.org/whats-on/the-merry-wives-of-windsor/), [*Macbeth*](https://bardonthebeach.org/whats-on/macbeth/), [*Goblin:Oedipus*](https://bardonthebeach.org/whats-on/goblinoedipus/), and [*Antigone*](https://bardonthebeach.org/whats-on/antigone/). See the [Bard on the Beach's summer schedule](https://bardonthebeach.org/schedule/#!/calendar/8) for more information. 
+
 ### Capilano Suspension Bridge
 
 Located in North Vancouver, the Capilano Suspension Bridge spans 140 metres across the Capilano River gorge, 70 metres above the water. The park also includes treetop walkways and cliffside paths through coastal rainforest.
@@ -171,7 +178,7 @@ Requirements for entering Canada vary by nationality. Most visitors need either 
 
 ### Currency & Banking
 
-Canada uses the **Canadian dollar (CAD)**. At the time of writing, the Canadian dollar trades at a discount relative to the US dollar and Euro, which makes Vancouver reasonably affordable for many international visitors despite its reputation as an expensive city.
+Canada uses the **Canadian dollar (CAD)**. At the time of writing, the Canadian dollar trades at a discount relative to the US dollar and Euro. 
 
 Visa, Mastercard, and American Express are widely accepted in stores and restaurants. Debit cards on international networks (Visa Debit, Maestro) work at most point-of-sale terminals. ATMs are available at the airport, on campus, and throughout the city.
 
@@ -183,13 +190,14 @@ The conference takes place during Vancouver's summer, which is characteristicall
 
 - **Temperature:** Daytime highs typically reach 22–30°C. Evenings cool down noticeably.
 - **Daylight:** There are approximately 16 hours of daylight around midsummer.
-- **Rain:** Summer is the driest season in Vancouver, though a light rain jacket is never a bad idea.
+- **Rain:** Summer is the driest season in Vancouver, though a light rain jacket or umbrella is never a bad idea.
 
 **What to bring:**
-- Light clothing or short sleeves for daytime sessions and outdoor activities
-- A light jacket or sweater for evenings and air-conditioned venues
-- Comfortable walking shoes — the campus is large and much of the surrounding area is best explored on foot
-- Sunscreen — summer UV levels can be higher than expected at this latitude
+
+* Light clothing or short sleeves for daytime sessions and outdoor activities
+* A light jacket or sweater for evenings and air-conditioned venues
+* Comfortable walking shoes — the campus is large and much of the surrounding area is best explored on foot
+
 
 ### Medical & Emergency Services
 
