@@ -18,7 +18,9 @@ $font-size-5: 3.1875rem;
 $font-size-6: 4rem;
 
 // Actual defaults
-$font-family-serif: "Cormorant Garamond", Times New Roman;
+$font-family-serif:
+  "Cormorant Garamond",
+  Times New Roman;
 $font-family-sans-serif: "Inter", Helvetica, sans-serif;
 $font-family-monospace: "Fira Mono", "Menlo", "Andale Mono", monospace;
 //$headings-font-family: $font-family-serif;
@@ -96,5 +98,91 @@ $h4-font-size: $font-size-1;
   img {
     height: auto;
     max-width: 12rem;
+  }
+}
+
+// Table stuff
+
+td.s6,
+td.s0,
+td.s3,
+td.s22,
+td.s12,
+td.s7 {
+  background-color: #efefef;
+}
+
+td.s16,
+td.s4,
+td.s1,
+td.s20,
+td.s5 {
+  background-color: #ffffff;
+}
+
+td.s21,
+td.s8 {
+  background-color: #fce5cd;
+}
+
+td.s11,
+td.s23,
+td.s10 {
+  background-color: #fff2cc;
+}
+
+td.s13,
+td.s14,
+td.s17 {
+  background-color: #d9ead3;
+}
+
+td.s18,
+td.s19,
+td.s9 {
+  background-color: #ead1dc;
+}
+
+td.s15 {
+  background-color: #f3f3f3;
+}
+
+td.s2 {
+  background-color: #000000;
+  color: white;
+}
+
+.tbl-container {
+  max-height: 70vh;
+  overflow-y: auto;
+  border: 1px solid grey;
+
+  table {
+    margin: 0;
+    padding: 0 0.5em;
+  }
+  table,
+  tbody,
+  thead {
+    font-size: 0.8rem;
+  }
+  tr:has(:nth-child(4)) > td:first-child {
+    font-weight: bold;
+  }
+  thead,
+  thead > tr,
+  th {
+    background-color: white;
+    margin-top: 0;
+    border-color: white;
+  }
+  thead th {
+    position: sticky;
+    top: -1px;
+    height: 1em;
+  }
+  tr:has(td[colspan]) {
+    position: sticky;
+    top: calc(2em + 3px);
   }
 }

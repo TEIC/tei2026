@@ -1,11 +1,304 @@
 ---
 title: Schedule
+tbl-colwidths: [10, 30, 30, 30]
 ---
 
-## Tentative Schedule
+We are happy to provide the **tentative** schedule to aid in travel planning. Please note that times and locations are subject to change until the final conference schedule is posted.
 
-We are happy to provide the tentative schedule to aid in travel planning. Please note that some times and locations are subject to change until the final conference schedule is posted.
+:::{.column-page}
 
+```{=html}
+<div class="tbl-container">
+<table>
+    <colgroup>
+<col style="width: 18%">
+<col style="width: auto">
+<col style="width: auto">
+<col style="width: auto">
+</colgroup>
+<thead>
+            <tr>
+                <th class="s0">Time</th>
+                <th class="s0">Activity</th>
+                <th class="s0">Location</th>
+                <th class="s0">Notes</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="s2" colspan="4">Monday, August 10</td>
+            </tr>
+            <tr>
+                <td class="s3">8 am-4:30 pm</td>
+                <td class="s4">Registration</td>
+                <td class="s4">Koerner 5th floor, Common Area</td>
+                <td class="s4"></td>
+            </tr>
+            <tr>
+                <td class="s3" rowspan="2">9 am-12 pm</td>
+                <td class="s4">Public Workshop 1: Introduction to Scholarly Publishing and
+                    Discoverability (Ali Moore)</td>
+                <td class="s4">Koerner, 5th floor, Presentation Room </td>
+                <td class="s4">Free, open to public: max. 30 people</td>
+            </tr>
+            <tr>
+                
+                <td class="s4">Registered Workshop 1: "Navigating and Processing Data from the TEI
+                    with XPath and XSLT" (Beshero-Bondar)</td>
+                <td class="s4">Koerner, 4th floor, Digital Scholarship Lab</td>
+                <td class="s4">Registered: max. 20 people</td>
+            </tr>
+            <tr>
+                <td class="s3">12-1:30 pm</td>
+                <td class="s6">Lunch Day 1 : no host</td>
+                <td class="s6"></td>
+                <td class="s6"></td>
+            </tr>
+            <tr>
+                <td class="s3" rowspan="2">1:30-4:30 pm</td>
+                <td class="s4">Public Workshop 2: Endings Principles for Digital Longevity (Jenstad,
+                    Holmes, Takeda)</td>
+                <td class="s4">Koerner, 5th floor, Presentation Room </td>
+                <td class="s4">Free, open to public: max. 30 people</td>
+            </tr>
+            <tr>
+                <td class="s4">Public Workshop 3: Strategic Planning in Canadian Digital Pedagogy
+                    (Dowson, Huculak)</td>
+                <td class="s4">Koerner, 4th floor, Digital Scholarship Lab</td>
+                <td class="s4">Free, open to public: max. 20 people</td>
+            </tr>
+            <tr>
+                <td class="s3">5:00-6:30 pm</td>
+                <td class="s4">Panel 1: It's Time for P6</td>
+                <td class="s4">Coach House, Green College</td>
+                <td class="s4"></td>
+            </tr>
+            <tr>
+                <td class="s3">6:30-8:00 pm</td>
+                <td class="s8">Opening Reception</td>
+                <td class="s8">Billiard and Piano Rooms, Green College</td>
+                <td class="s8">Light catering and cash bar</td>
+            </tr>
+            <tr>
+                <td class="s2" colspan="4">Tuesday, August 11</td>
+            </tr>
+            <tr>
+                <td class="s3">8-8:30 am</td>
+                <td class="s9">Registration &amp; Coffee</td>
+                <td class="s9">BuTo 323</td>
+                <td class="s9"></td>
+            </tr>
+            <tr>
+                <td class="s3">8:30-10:15 am</td>
+                <td class="s10">Opening Plenary</td>
+                <td class="s11">B208</td>
+                <td class="s11"></td>
+            </tr>
+            <tr>
+                <td class="s3" rowspan="2">10:30 am-12:15 pm</td>
+                <td class="s4">Long Paper A1: AI, LLMs</td>
+                <td class="s4">B208</td>
+                <td class="s4"></td>
+            </tr>
+            <tr>
+                <td class="s4">Long Paper B1: Reflections on TEI Standards and Models</td>
+                <td class="s4">B210</td>
+                <td class="s4"></td>
+            </tr>
+            <tr>
+                <td class="s3">12:15-1:45pm</td>
+                <td class="s13">Lunch and Working Groups </td>
+                <td class="s13">TBD</td>
+                <td class="s14">Lunch provided for Working Group participants</td>
+            </tr>
+           
+            <tr>
+                <td class="s3">1:45-3:15 pm</td>
+                <td class="s4">Poster Session + Lightning Talks</td>
+                <td class="s4">Koerner, 5th floor, Common Area </td>
+                <td class="s4"></td>
+            </tr>
+            <tr>
+                <td class="s3"></td>
+                <td class="s9">Coffee refresh</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+            </tr>
+            <tr>
+                <td class="s3" rowspan="3">3:30-6:30 pm</td>
+                <td class="s4">Registered Workshop 2: Viglianti "Low-cost, low-infrastructure,
+                    low-threshold strategies for authoring and publishing TEI (and friends)"</td>
+                <td class="s4">Koerner, 4th floor, Digital Scholarship Lab</td>
+                <td class="s4">Max. 20 people</td>
+            </tr>
+            <tr>
+          
+                <td class="s4">Registered Workshop 3: Cummings "LEAF Commons Tool Suite" </td>
+                <td class="s4">Koerner, 5th floor, Presentation Room </td>
+                <td class="s4">Max. 30 people</td>
+            </tr>
+            <tr>
+               
+                <td class="s4">Registered Workshop 4: Bauman "Schematron in ODD" </td>
+                <td class="s4">Koerner, 4th floor, Digital Scholarship Lab</td>
+                <td class="s4">Max. 20 people</td>
+            </tr>
+            <tr>
+                <td class="s3">6:30pm-onwards</td>
+                <td class="s16">Dinner Day 2: no host</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="s2" colspan="4">Wednesday, August 12</td>
+            </tr>
+            <tr>
+                <td class="s3">8-8:30 am</td>
+                <td class="s9">Registration &amp; Coffee</td>
+                <td class="s9">BuTo 323</td>
+                <td class="s9"></td>
+            </tr>
+            <tr>
+                <td class="s3" rowspan="2">8:30-10:15 am</td>
+                <td class="s4">Long Paper A2: Writing Systems and the TEI</td>
+                <td class="s4">D316</td>
+                <td class="s4"></td>
+            </tr>
+            <tr>
+                <td class="s4">Panel 2: Unsettling British History Through TEI Encoding an
+                    Eighteenth-Century Jacobite Manuscript</td>
+                <td class="s4">D322</td>
+                <td class="s4"></td>
+            </tr>
+            <tr>
+                <td class="s3" rowspan="2">10:30 am-12:15 pm</td>
+                <td class="s4">Long Paper B2: TEI Infrastructures</td>
+                <td class="s4">D316</td>
+                <td class="s4"></td>
+            </tr>
+            <tr>
+                <td class="s17">Special Interest Groups - 3 or 4 concurrently scheduled</td>
+                <td class="s17">TBD</td>
+                <td class="s17"></td>
+            </tr>
+            <tr>
+                <td class="s3">12:15-1:45pm</td>
+                <td class="s6">Lunch Day 3 - no host</td>
+                <td class="s6"></td>
+                <td class="s6"></td>
+            </tr>
+            <tr>
+                <td class="s3">1:45-3:15 pm</td>
+                <td class="s4">Long Paper A2: Decolonial and Feminist TEI</td>
+                <td class="s16">A102</td>
+                <td class="s4"></td>
+            </tr>
+            <tr>
+                <td class="s3">3:30-5 pm</td>
+                <td class="s4">[Public] Film Screening and Discussion of <span>Always in Progress:
+                        Three Decades of The Women Writers Project </span>(Chapman, Flanders,
+                    Connell)</td>
+                <td class="s4">A102</td>
+                <td class="s4">Film has 45 min run time</td>
+            </tr>
+            <tr>
+                <td class="s3">6-8 pm</td>
+                <td class="s8">Evening Social</td>
+                <td class="s8">Koerner's Pub</td>
+                <td class="s8">Appetizers + tacos provided; no host cash bar</td>
+            </tr>
+            <tr>
+                <td class="s2" colspan="4">Thursday, August 13</td>
+            </tr>
+            <tr>
+                <td class="s3">8-8:30 am</td>
+                <td class="s9">Registration &amp; Coffee</td>
+                <td class="s9">BuTo 323</td>
+                <td class="s9"></td>
+            </tr>
+            <tr>
+                <td class="s3" rowspan="2">8:30-10:15 am</td>
+                <td class="s4">Short Paper D1: Micro, Technical Problems</td>
+                <td class="s4">B210</td>
+                <td class="s4"></td>
+            </tr>
+            <tr>
+                <td class="s4">Short Paper E1: Encoding Literacy, Games, and Pedagogy</td>
+                <td class="s4">B208</td>
+                <td class="s4"></td>
+            </tr>
+            <tr>
+                <td class="s3" rowspan="2">10:30 am-12.15 pm</td>
+                <td class="s4">Public Panel: Reimagining the Dissertation</td>
+                <td class="s4">IKBLC </td>
+                <td class="s4"></td>
+            </tr>
+            <tr>
+                <td class="s4">Short Paper D2: Macro, Standards, Big Projects</td>
+                <td class="s4">B210</td>
+                <td class="s4"></td>
+            </tr>
+            <tr>
+                <td class="s3">12:15-1:45pm</td>
+                <td class="s17">Lunch and Working Groups</td>
+                <td class="s17">BuTo 323</td>
+                <td class="s17">Lunch provided for workshop participants</td>
+            </tr>
+            <tr>
+                <td class="s3">1:30-2:00 pm</td>
+                <td class="s9">Coffee refresh</td>
+                <td class="s19">BuTo 323</td>
+                <td class="s19"></td>
+            </tr>
+            <tr>
+                <td class="s3" rowspan="2">2:30-4:00 pm</td>
+                <td class="s4">Decolonization Tour </td>
+                <td class="s4"></td>
+                <td class="s4">1 to 2 groups of 25 max</td>
+            </tr>
+            <tr>
+                <td class="s17">Special Interest Groups - 3 or 4 concurrently scheduled</td>
+                <td class="s17">TBD</td>
+                <td class="s17"></td>
+            </tr>
+            <tr>
+                <td class="s3">7-9:00 pm</td>
+                <td class="s8">Banquet</td>
+                <td class="s8">Wildlight Kitchen + Bar</td>
+                <td class="s8">Attendees will have one free drink w/dinner (alcoholic or
+                    non-alcoholic); they can purchase additional</td>
+            </tr>
+            <tr>
+                <td class="s2" colspan="4">Friday, August 14</td>
+            </tr>
+            <tr>
+                <td class="s3">10-11:00 am</td>
+                <td class="s20">Coach to SFU</td>
+                <td class="s4">Pick up at: Walter Gage Residence, 5959 Student Union
+                    Blvd<br /><br />Drop off at: Harbour Centre, 555 W Hastings St Vancouver, BC V6B
+                    4N6</td>
+                <td class="s4">Reserved 56-seat coach with luggage storage.</td>
+            </tr>
+            <tr>
+                <td class="s3">11 am-1 pm</td>
+                <td class="s21">AGM and Catered Business Lunch</td>
+                <td class="s8">Segal Centre, Harbour Centre (SFU Downtown)</td>
+                <td class="s8"></td>
+            </tr>
+            <tr>
+                <td class="s22">1-2.30</td>
+                <td class="s23">Closing Plenary</td>
+                <td class="s11">Segal Centre, Harbour Centre (SFU Downtown)</td>
+                <td class="s11"></td>
+            </tr>
+        </tbody>
+</table>
+</div>
+
+```
+:::
+
+<!-- 
 ### Monday, August 10th
 
 | Time | Activity | Location |
@@ -59,4 +352,4 @@ We are happy to provide the tentative schedule to aid in travel planning. Please
 |------|----------|----------|
 | 10:00 – 11:00 am | Coach to SFU Harbour Centre | Departs Walter Gage Residence |
 | 11:00 am – 1:00 pm | AGM and Catered Business Lunch | Segal Centre, Harbour Centre (SFU Downtown) |
-| 1:00 – 2:30 pm | Closing Plenary | Segal Centre, Harbour Centre (SFU Downtown) |
+| 1:00 – 2:30 pm | Closing Plenary | Segal Centre, Harbour Centre (SFU Downtown) | -->
