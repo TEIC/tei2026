@@ -4,8 +4,6 @@ toc: true
 toc-location: left
 ---
 
-{{< include _poster-callout.qmd >}}
-
 
 We are pleased to announce the call for papers, posters, panels, tool demonstrations, and workshops for the 26th annual meeting of the [Text Encoding Initiative (TEI)](https://tei-c.org). **TEI 2026: Creating Connections, Unsettling Practices** seeks to bring together scholars, librarians, developers, and students to address the ethical, social, and technical challenges of digital textual editing in the 21st century.
 
@@ -17,7 +15,10 @@ The conference will be held August 10-14, 2026 (Mon-Fri) at the [University of B
 
  ~~**February 19, 2026:** Deadline for submissions~~
 
+
 **May 1, 2026:** Notification of acceptance and invitation to authors of accepted submissions. 
+
+**May 27, 2026:** Late-breaking Poster submission deadline
 
 **June 8, 2026:** Presenter final abstracts and early registration deadline. At least one author per accepted submission must register and confirm in-person participation.  
 
