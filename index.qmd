@@ -8,17 +8,48 @@ subtitle: |
 title-block-banner: "logos/ubc.jpg"
 ---
 
+<!-- 
+## Keynotes 
 
-## TEI 2026: August 10th-14th
+```{=html}
+ <div class="cards">
+ 
+      <!-- Speaker 1 -->
 
+        <div class="speaker-card">
+          <span class="speaker-tag">Opening Plenary · Aug 11</span>
+          <p class="speaker-name">Jon Corbett</p>
+          <p class="speaker-affiliation">
+            Assistant Professor, School of Interactive Arts & Technology<br>
+            Simon Fraser University
+          </p>
+          <p class="speaker-bio">
+          </p>
+        </div>
 
-::: {.callout icon="false"}
+        <div class="speaker-card">
+          <span class="speaker-tag">Film Screening and Discussion · Aug 13</span>
+          <p class="speaker-name">Julia Flanders and Sarah Connell</p>
+          <p class="speaker-affiliation">
+            Women Writers Project
+          </p>
+         <p class="speaker-bio">
+          </p>
+        </div>
 
-## Registration now open!
+    <div class="speaker-card">
+          <span class="speaker-tag">Closing Plenary · Aug 15</span>
+          <p class="speaker-name">Susan Brown</p>
+          <p class="speaker-affiliation">
+            Professor of English and Canada Research Chair in Collaborative Digital Scholarship,<br>
+            University of Guelph
+          </p>
+        <p class="speaker-bio">
+          </p>
+        </div>
 
-Early bird registration is now open! See [Registration](./registration.html) for more details.
-
-:::
+</div>
+``` -->
 
 The University of British Columbia and Simon Fraser University will co-host TEI 2026. This is the first time the TEI conference will be held in Vancouver and the third time in 26 years that it will be held in Canada. The annual conference provides an opportunity for a diverse international group of researchers to advance text encoding practices, demonstrate new tools, pose questions across disciplines, learn from each other, and train the next generation of scholars in the principles and practices of text encoding. The 5-day conference will host academic panels, poster presentations, tool demonstrations, public keynotes, and plenaries, plus innovative outreach activities including a film screening, public exhibit, open workshops, capacity-building meetings, and collaborative working events. 
 
