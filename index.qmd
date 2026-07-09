@@ -14,7 +14,6 @@ title-block-banner: "logos/ubc.jpg"
 ```{=html}
  <div class="cards">
  
-      <!-- Speaker 1 -->
 
         <div class="speaker-card">
           <span class="speaker-tag">Opening Plenary · Aug 11</span>
