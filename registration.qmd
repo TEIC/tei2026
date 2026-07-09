@@ -2,7 +2,10 @@
 title: Registration
 ---
 
-Conference registration is now open! Please register using [EventBrite](https://www.eventbrite.ca/e/tei-2026-creating-connections-unsettling-practices-tickets-1989151655147).
+Conference registration has now closed. We look forward to seeing you soon!
+
+<!--
+Please register using [EventBrite](https://www.eventbrite.ca/e/tei-2026-creating-connections-unsettling-practices-tickets-1989151655147).
 
 Registration fees include:
 
@@ -41,3 +44,5 @@ All prices are in CAD. Early bird rates are available until **June 15th**. Regis
 <br/>
 <a href="https://www.eventbrite.ca/e/tei-2026-creating-connections-unsettling-practices-tickets-1989151655147" class="btn btn-primary w-100" role="button">Register now (EventBrite)</a>
 ```
+
+-->

@@ -19,8 +19,7 @@ website:
           - sponsors.qmd
           - peer-review-guide.qmd
           - CFP.qmd
-      - text: Registration
-        href: registration.qmd
+          - registration.qmd
       - text: Schedule
         href: schedule.qmd
       - local.qmd
