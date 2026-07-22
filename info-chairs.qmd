@@ -1,0 +1,92 @@
+---
+title: "Information for Chairs"
+execute:
+    echo: false
+---
+
+Thank you for agreeing to serve as a session chair for TEI 2026: Creating Connections, Unsettling Practices, hosted by the University of British Columbia and Simon Fraser University in Vancouver, 10-14 August 2026. Although most chairs will be experienced, this document is to communicate some practices that we would like chairs to implement to help the conference run smoothly.
+
+## Land Acknowledgement
+As the universities hosting the conference are on ancestral territories of the First Nations and Indigenous peoples of Turtle Island, we ask that chairs open their sessions with a land acknowledgement. All presentation sessions will be hosted on UBC’s Point Grey Campus, and the official language for land acknowledgements at this campus is: 
+
+> We [I] would like to begin by acknowledging that the land on which we gather is the traditional, ancestral, and unceded territory of the xwməθkwəy̓əm (Musqueam) People.
+
+The Musqueam nation invites all settlers and guests on this land to use the official acknowledgement as a starting point to personalize their land acknowledgements as thoughtful consideration of Musqueam’s history with the land and our relationship to that history.
+
+Find out more about Land Acknowledgements and the university’s relationship with Musqueam land and people here: [https://blogs.ubc.ca/campusenvironments/land-acknowledgments/](https://blogs.ubc.ca/campusenvironments/land-acknowledgments/) and here: [https://ceremonies.sites.olt.ubc.ca/files/2025/08/UBC-Guidelines_Musqueam-Protocol-for-Events.pdf](https://ceremonies.sites.olt.ubc.ca/files/2025/08/UBC-Guidelines_Musqueam-Protocol-for-Events.pdf)
+
+## Bios, Presentation Information, and Presenter Emails
+You will be able to access presentation titles on the published schedule. The conference organizers will provide presenter emails and bios. 
+
+
+## Time Keeping and Question Period
+Chairs are responsible for timekeeping within sessions and moderating the question period. Presentations take one of the following formats:
+
+* Long Papers: 20 minutes presenting, 10 minutes for questions
+* Short Papers: 10 minutes presenting, 5 minutes for questions, or 
+* Poster Lightning Presentations 1 minute presenting
+
+Please familiarize yourself with the format of the session you have been assigned; it is your responsibility to cut off overly long papers to ensure that all presenters have equal time to present. It is up to you as chair to decide how to manage the question period, including whether to allow questions between papers or wait until the end of all papers to solicit questions. We suggest that you prepare some questions to ask presenters, whether to begin the session or to ensure that all presentations are equally represented in the discussion.
+
+## Room Logistics and Audio Visual
+As we are meeting on a university campus, all rooms will have AV capability. The most standard connection is an HDMI cable. We suggest that chairs bring a dongle adaptor for HDMI hookups in case individual presenters’ machines do not have an appropriate port. You may decide as chair to ask all presenters to send you their slides in advance to avoid switching computers between presentations.
+
+Most sessions will take place in the Buchanan building block. Detailed accessibility information for each room can be found via UBC's Learning Spaces website:
+
+
+::: {.list-table}
+
+- - Room
+  - Capacity
+
+- - [BUCH A201](https://learningspaces.ubc.ca/classrooms/buch-A201/)
+   - 181
+- - [BUCH A202](https://learningspaces.ubc.ca/classrooms/buch-A202/)
+   - 108 
+ - - [BUCH B208](https://learningspaces.ubc.ca/classrooms/buch-B208/)
+   - 56
+ - - [BUCH B210](https://learningspaces.ubc.ca/classrooms/buch-B210/)
+   - 48
+ - - [BUCH B219](https://learningspaces.ubc.ca/classrooms/buch-B219/)
+   - 24
+ - - [BUCH B316](https://learningspaces.ubc.ca/classrooms/buch-B316/)
+   - 22
+ - - [BUCH B319](https://learningspaces.ubc.ca/classrooms/buch-B319/)
+   - 24
+ - - [BUCH B303](https://learningspaces.ubc.ca/classrooms/buch-B303/)
+   - 40
+   
+ - - [BUCH D201](https://learningspaces.ubc.ca/classrooms/buch-D201/)
+   - 40
+ - - [BUCH D316](https://learningspaces.ubc.ca/classrooms/buch-D316/)
+   - 48
+ - - [BUCH D322](https://learningspaces.ubc.ca/classrooms/buch-D322/)
+   - 48
+
+:::
+
+Note that A/V support will be available throughout the conference, but we highly recommend locating and familiarizing yourself with the room and its configuration before the start of your session. Please reach out to one of the conference team members if you run into any issues or if you have any questions. 
+
+
+
+<!-- ```{r}
+
+library(sf)
+library(leaflet)
+
+geo <- st_read("locations.geojson")
+map_data <- st_transform(geo, crs = 4326)
+
+leaflet() |>
+  addTiles() %>% # Add default OpenStreetMap map tiles
+  addGeoJSON(geojson = map_data)
+  addPolygons(
+    fillColor = "blue",
+    weight = 1,
+    opacity = 1,
+    color = "white",
+    dashArray = "3",
+    fillOpacity = 0.7
+  )
+``` -->
+

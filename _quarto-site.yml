@@ -15,6 +15,8 @@ website:
         text: Home
       - text: About
         menu: 
+          - info-presenters.qmd
+          - info-chairs.qmd
           - team.qmd
           - sponsors.qmd
           - peer-review-guide.qmd

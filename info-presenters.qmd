@@ -1,0 +1,97 @@
+---
+title: "Information for Chairs"
+execute:
+    echo: false
+---
+
+Thank you for contributing to TEI 2026: Creating Connections, Unsettling Practices! 
+
+## Land Acknowledgement
+As the universities hosting the conference are on ancestral territories of the First Nations and Indigenous peoples of Turtle Island, we ask that chairs open their sessions with a land acknowledgement. Individual presenters are invited, if they would like, to provide a land acknowledgment that reflects on their own positionality and relationship to the places on which they live and work. Regardless of whether you choose to have a land acknowledgment to begin your presentation, we encourage all participants to learn more about Land Acknowledgements and the university’s relationship with Musqueam land and people here: [https://blogs.ubc.ca/campusenvironments/land-acknowledgments/](https://blogs.ubc.ca/campusenvironments/land-acknowledgments/). To learn more about Indigenous nations and territories across the world, see [Native Land](https://native-land.ca).
+
+## Presentation Logistics
+
+Presentations take one of the following formats:
+
+* Long Papers: 20 minutes presenting, 10 minutes for questions
+* Short Papers: 10 minutes presenting, 5 minutes for questions, or 
+* Poster Lightning Presentations 1 minute short presentation
+
+Please familiarize yourself with the format of the session you have been assigned. While your panel chair will be responsible for keeping time, we ask that you stay within your alloted time to ensure that all presenters have equal time to present. Your chair will discuss with you and your fellow panelists whether there will be a question period after each presentation or one question period for the panel.
+
+### Bios, Presentation Information, and Presenter Emails
+
+Chairs will introduce each panel using the biographical statements provided during registration. Please contact your panel chair if there is any need to update or revise your biographical statement. 
+
+### Poster Slam / Lightning Presentation
+
+A well-loved tradition of the TEI Conference, the TEI Poster Slam proceeds in two parts. At the start of the session, the Chair will invite all Poster Presenters to give a 1 minute (or less) synopsis of their poster -- think of this as a trailer or advert for what your poster is about.This is not meant to be onerous and should not include additional materials (i.e. no slides or presentation necessary). 
+
+The bulk of the Poster Slam is dedicated to a standard poster session; each presenter will be stationed with their poster around the area to discuss their work and research to interested participants. Those presenting a poster are expected to print their poster ahead of time and bring their poster to the poster session. Note that the Conference Organizers cannot provide printing or other services. For poster printing, nearby retailers include [Copy Smart](https://copysmart.ca/), Staples, or London Drugs. 
+
+All posters will be taped to a display wall with residue-free mounting tape provided. Posters should be within a standard size (A1, A2, 3'x4', etc).  
+
+### Papers and Panels
+
+As we are meeting on a university campus, all classrooms and presentation rooms for papers will have AV capability. The most standard connection is an HDMI cable. However, we recommend that presenters and chairs bring any connectors or dongles that may need to ensure smooth transitions between presentations.
+
+In some cases, a chair may decide to compile all presentations ahead of time. If that is the case, your chair will let you know when and how to submit presentations. 
+
+Most sessions will take place in the Buchanan building block. Detailed A/V details and accessibility information for each room can be found via UBC's Learning Spaces website:
+
+::: {.list-table}
+
+- - Room
+  - Capacity
+
+- - [BUCH A201](https://learningspaces.ubc.ca/classrooms/buch-A201/)
+   - 181
+- - [BUCH A202](https://learningspaces.ubc.ca/classrooms/buch-A202/)
+   - 108 
+ - - [BUCH B208](https://learningspaces.ubc.ca/classrooms/buch-B208/)
+   - 56
+ - - [BUCH B210](https://learningspaces.ubc.ca/classrooms/buch-B210/)
+   - 48
+ - - [BUCH B219](https://learningspaces.ubc.ca/classrooms/buch-B219/)
+   - 24
+ - - [BUCH B316](https://learningspaces.ubc.ca/classrooms/buch-B316/)
+   - 22
+ - - [BUCH B319](https://learningspaces.ubc.ca/classrooms/buch-B319/)
+   - 24
+ - - [BUCH B303](https://learningspaces.ubc.ca/classrooms/buch-B303/)
+   - 40
+   
+ - - [BUCH D201](https://learningspaces.ubc.ca/classrooms/buch-D201/)
+   - 40
+ - - [BUCH D316](https://learningspaces.ubc.ca/classrooms/buch-D316/)
+   - 48
+ - - [BUCH D322](https://learningspaces.ubc.ca/classrooms/buch-D322/)
+   - 48
+
+:::
+
+Note that A/V support will be available throughout the conference, but we highly recommend familiarizing yourself with the room and its configuration before the start of your session. Please reach out to one of the conference team members if you run into any issues or if you have any questions. 
+
+
+
+<!-- ```{r}
+
+library(sf)
+library(leaflet)
+
+geo <- st_read("locations.geojson")
+map_data <- st_transform(geo, crs = 4326)
+
+leaflet() |>
+  addTiles() %>% # Add default OpenStreetMap map tiles
+  addGeoJSON(geojson = map_data)
+  addPolygons(
+    fillColor = "blue",
+    weight = 1,
+    opacity = 1,
+    color = "white",
+    dashArray = "3",
+    fillOpacity = 0.7
+  )
+``` -->
+
