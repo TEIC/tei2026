@@ -3,7 +3,7 @@ title: Schedule
 tbl-colwidths: [10, 30, 30, 30]
 ---
 
-We are happy to provide the final schedule. You can also view the schedule here: [https://www.conftool.pro/tei2026/sessions.php](https://www.conftool.pro/tei2026/sessions.php)
+Please find the final schedule for TEI2026 below. You can also view the schedule here: [https://www.conftool.pro/tei2026/sessions.php](https://www.conftool.pro/tei2026/sessions.php)
 
 :::{.column-page .iframe}
 
