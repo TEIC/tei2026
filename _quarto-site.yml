@@ -22,8 +22,7 @@ website:
           - peer-review-guide.qmd
           - CFP.qmd
           - registration.qmd
-      - text: Schedule
-        href: schedule.qmd
+      - schedule.qmd
       - local.qmd
     search: false
     bread-crumbs: true

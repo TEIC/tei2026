@@ -3,7 +3,7 @@ title: Schedule
 tbl-colwidths: [10, 30, 30, 30]
 ---
 
-We are happy to provide the **tentative** schedule to aid in travel planning. Please note that times and locations are subject to change until the final conference schedule is posted.
+We are happy to provide the final schedule. If the below does not load, you can also view the schedule here: [https://www.conftool.pro/tei2026/sessions.php](https://www.conftool.pro/tei2026/sessions.php)
 
 :::{.column-page .iframe}
 
