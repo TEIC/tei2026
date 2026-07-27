@@ -18,6 +18,8 @@ Find out more about Land Acknowledgments and the university’s relationship wit
 ## Bios, Presentation Information, and Presenter Emails
 You will be able to access presentation titles on the published schedule. The conference organizers will provide presenter emails and bios. 
 
+##Conference Proceedings
+Each year, the TEI conference publishes a proceedings with jTEI. We invite chairs to please email [teiconf2026@gmail.com](teiconf2026@gmail.com) to let us know if papers on your panel are especially strong or suitable for the proceedings.
 
 ## Time Keeping and Question Period
 Chairs are responsible for timekeeping within sessions and moderating the question period. Presentations take one of the following formats:
