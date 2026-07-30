@@ -57,7 +57,8 @@ async function updateConfig() {
     await Promise.all(
       config.book.chapters.map(async (chapter) => {
         if (path.isGlob(chapter)) {
-          const paths = (await Array.fromAsync(expandGlob(chapter))).filter(({ name}) => name !== "*.qmd");
+          const paths = (await Array.fromAsync(expandGlob(chapter))).filter(({ name}) => name != "*.qmd");
+          console.log(paths);
           return paths.map(({ path: p }) => path.relative(Deno.cwd(), p));
         } else {
           return [chapter];
@@ -71,7 +72,6 @@ async function updateConfig() {
 async function writeConfig() {
   // // Convert the JavaScript object to a YAML string with 2-space indentation
   const config = await updateConfig();
-  console.log(config);
   const yamlString = stringify(config, { indent: 2 });
   const outPath = path.join(Deno.cwd(), INPUT_FILE);
   // Write the YAML string to a file

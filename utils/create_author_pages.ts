@@ -5,6 +5,10 @@ const pagesDir = "authors";
 
 let count = 0;
 
+if (!Deno.env.get("QUARTO_PROJECT_RENDER_ALL")) {
+  Deno.exit();
+}
+
 for (const entry of Deno.readDirSync(dataDir)) {
   if (!entry.isFile || !entry.name.endsWith(".yaml")) continue;
 
@@ -24,6 +28,7 @@ for (const entry of Deno.readDirSync(dataDir)) {
   const frontMatter = [
     "---",
     `title: ${JSON.stringify(author.name)}`,
+
     "metadata-files:",
     `  - ${entry.name}`,
     "---",
@@ -37,10 +42,22 @@ for (const entry of Deno.readDirSync(dataDir)) {
   if (author.metadata.bio) {
     bodyLines.push("## About", "", author.metadata.bio.trim(), "");
   }
-
   const body = bodyLines.join("\n");
+  const newContent = frontMatter + "\n" + bodyLines.join("\n");
 
-  Deno.writeTextFileSync(qmdPath, frontMatter + "\n" + body);
+  let existing = null;
+  try {
+    existing = Deno.readTextFileSync(qmdPath);
+  } catch (_) {
+    // file doesn't exist yet — that's fine
+  }
+
+  if (existing === newContent) {
+    console.log('Unchanged content; skipping')
+    continue;
+  }
+
+  Deno.writeTextFileSync(qmdPath, newContent);
   count++;
 }
 

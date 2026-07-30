@@ -1,6 +1,7 @@
 .DS_Store
 .quarto
 .vscode
+.local/
 
 node_modules/
 tmp/
@@ -10,3 +11,5 @@ _book
 /.quarto/
 **/*.quarto_ipynb
 _extensions
+authors/*.qmd
+!authors/index.qmd

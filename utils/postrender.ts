@@ -5,6 +5,8 @@ import { DOMParser, Element } from "jsr:@b-fuze/deno-dom";
  * Map defining whether a script should be retained
  */
 
+
+
 const SCRIPTS = {
 "quarto-nav.js": false,
 "clipboard.min.js": true,
@@ -68,6 +70,10 @@ const files = QUARTO_PROJECT_OUTPUT_FILES.split(/[\n\s]+/gi);
 
 for (const file of files) {
   try {
+    if (!file.endsWith('.html')){
+      console.log('Skipping');
+      continue;
+    }
     const original = await Deno.readTextFile(file);
     const modified = transform(original);
     await Deno.writeTextFile(file, modified);

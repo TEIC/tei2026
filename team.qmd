@@ -22,7 +22,32 @@ title: "Team"
 * James Cummings (Newcastle)
 * Constance Crompton (Ottawa)
 
-<!-- ## Peer Reviewers -->
+### Peer Reviewers 
 
-
+* Syd Bauman (Northeastern University)
+* Helena Bermúdez Sabel (Jinntec)
+* Elisa Beshero-Bondar (Penn State Erie)
+* Peter Boot (Huygens Institute)
+* Katherine Bowers (University of British Columbia)
+* Hugh Cayless (Duke University)
+* James Cummings (Newcastle University)
+* Leith Davis (Simon Fraser University)
+* Gimena del Rio Riande (CONICET)
+* Maria Fronczak (Institute of History of the Polish Academy of Sciences)
+* Andrew Gardener (Simon Fraser University)
+* Ekatarina Grguric (University of British Columbia)
+* Dimitra Grigoriou (Austrian Academy of Sciences)
+* Joanna Hałaczkiewicz (Jagiellonian University)
+* Ulrike Henny-Krahmer (University of Rostock)
+* Martin Holmes (University of Victoria)
+* Diane Jakacki (Bucknell University)
+<!-- * Sydney Lines (University of British Columbia) -->
+* Alison Moore (Simon Fraser University)
+<!-- * Emily Murphy (University of British Columbia Okanagan) -->
+* Kiyonori Nagasaki (International Institute for Digital Humanities / Keio University)
+* Sarah Revilla-Sanchez (University of British Columbia)
+* Sabine Seifert (University of Potsdam)
+<!-- * Joey Takeda (Simon Fraser University)-->
+* Raff Viglianti (University of Maryland)
+* Yifan Wang (International Institute for Digital Humanities / National Institute for Japanese Language and Linguistics)
 

@@ -9,6 +9,8 @@ website:
   title: "TEI2026"
   # DO NOT ADD FOOTER.
  # page-footer: "Foo"
+  bread-crumbs: true
+  page-navigation: true
   navbar:
     pinned: false
     logo: "logos/output/TEI_Logo.png"
@@ -24,10 +26,10 @@ website:
           - peer-review-guide.qmd
           - CFP.qmd
           - registration.qmd
+      - authors/index.qmd    
       - schedule.qmd
       - local.qmd
     search: false
-    bread-crumbs: true
 format:
   html:
     include-after-body: _partials/footer.html
