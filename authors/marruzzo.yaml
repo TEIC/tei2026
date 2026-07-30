@@ -1,0 +1,13 @@
+author:
+  name: Andrea Marruzzo
+  affiliation:
+    - Sapienza University of Rome
+  orcid: 0009-0002-5677-7735
+  metadata:
+    bio: >-
+      Andrea Marruzzo is a research fellow at Sapienza University of Rome with a
+      background in classical archaeology and Iranian philology. As the creator
+      of BEDA and IbiScript, he combines epigraphic research with systems
+      programming in Rust to build high-performance infrastructure, web portals,
+      and custom domain-specific languages for digital scholarly editions and
+      complex ancient scripts.

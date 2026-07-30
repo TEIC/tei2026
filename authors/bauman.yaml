@@ -1,0 +1,30 @@
+author:
+  name: Syd Bauman
+  affiliation:
+    - Northeastern University
+  orcid: 0000-0003-3288-443X
+  metadata:
+    bio: >-
+      Complexity:
+
+      Syd Bauman is the Senior XML Programmer/Analyst at the Women Writers
+      Project — one of the oldest extant TEI projects — but if he were to be
+      allowed to choose his own title it would likely be “XML data hygienist”.
+      To say that he is obsessed with data consistency would be an exaggeration
+      … but not much of one. Since a schema is the first line of defense against
+      inconsistency, Syd thinks about schemas in general, and the TEI schema in
+      particular, a lot, and about how schemas support expressivity,
+      interchange, and interoperability.
+
+
+      Date format:
+
+      Syd Bauman served as the North American Editor of the TEI from 2001 to
+      2007, and has served as an active member of the TEI Technical Council
+      since 2013. He began working for a text encoding project — the Women
+      Writers Project, one of the oldest TEI projects still running — in 1990,
+      and has been involved with and invested in the TEI since 1991. One of the
+      many things he learned from and appreciated about TEI P 1.1 was its use of
+      the ISO standard date format that by now we all know and love: a
+      four-digit year, a hyphen, a two-digit month, a hyphen, and a two-digit
+      day. Apparently, that format is still on his mind …

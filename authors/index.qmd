@@ -1,0 +1,11 @@
+---
+title: "Authors"
+listing:
+  contents: "*.qmd"
+  type: table
+  fields: [title, description]
+  max-description-length: 1000
+  field-display-names:
+    title: "Name"
+  sort: false
+---

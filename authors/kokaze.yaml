@@ -1,0 +1,13 @@
+author:
+  name: Naoki Kokaze
+  affiliation:
+    - National Museum of Japanese History
+  metadata:
+    bio: >-
+      Naoki Kokaze is a Project Associate Professor at the National Museum of
+      Japanese History (NIHU), Japan. He develops digital-humanities methods
+      applying LLMs to historical documents, including CIDOC-CRM knowledge-graph
+      construction from English-language naval records and, with a
+      Shōsōin-documents specialist, a two-stage LLM pipeline for date
+      normalization in eighth-century Japanese administrative texts using TEI
+      markup, presented at TEI2026.

@@ -1,5 +1,7 @@
 project:
   type: website
+  pre-render:
+    - utils/create_author_pages.ts
   post-render:
     - utils/postrender.ts
 
