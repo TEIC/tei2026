@@ -3,4 +3,9 @@ author:
   affiliation:
     - Penn State Erie
   metadata:
-    bio: Presenting on the Voynich TEI.
+    bio: >-
+      Hadleigh Jae Bills is a graduate from Penn State Erie, The Behrend College
+      with a bachelor's degree in Digital Media, Arts, and Technology. She is
+      working on a TEI file of the Voynich Manuscript through using Python,
+      Invisible XML, XSLT, and CETEIcean. Hadleigh is interested in digitizing
+      manuscripts in TEI.
